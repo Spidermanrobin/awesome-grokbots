@@ -5,7 +5,7 @@
 
 [English](README.md) · [日本語](README.ja.md) · [简体中文](README.zh-CN.md)
 
-[サイトを見る](https://OWNER.github.io/awesome-grok-bot/) · [貢献する](CONTRIBUTING.md) · [JSON](dist/catalog.json) · [llms.txt](llms.txt)
+[サイトを見る](https://spidermanrobin.github.io/awesome-grokbots/) · [貢献する](CONTRIBUTING.md) · [JSON](dist/catalog.json) · [llms.txt](llms.txt)
 
 41 ボット | 12 スキル・MCP | 7 ガイド
 
@@ -134,7 +134,7 @@ python -m http.server 8000 --directory site
 ![awesome Grok Bot featured author](badges/featured.svg)
 
 ```md
-[![Featured on awesome Grok Bot](https://github.com/OWNER/awesome-grok-bot/raw/main/badges/featured.svg)](https://github.com/OWNER/awesome-grok-bot)
+[![Featured on awesome Grok Bot](https://github.com/Spidermanrobin/awesome-grokbots/raw/main/badges/featured.svg)](https://github.com/Spidermanrobin/awesome-grokbots)
 ```
 
 ## ライセンスと謝辞

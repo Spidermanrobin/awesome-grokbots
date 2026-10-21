@@ -71,7 +71,7 @@ python scripts/preview.py
 `preview.py` starts its own local server, exercises desktop/mobile filters and
 languages, and captures `docs-preview.png` at 1440×1000.
 
-For hosting, replace `OWNER/awesome-grok-bot` and `OWNER.github.io`, use `main` or `master` as the default
+For hosting, replace `Spidermanrobin/awesome-grokbots` and `OWNER.github.io`, use `main` or `master` as the default
 branch (or update workflow branch filters), and enable GitHub Pages with
 GitHub Actions. The daily workflow needs repository Contents write permission.
 Its generated commit triggers Pages through `workflow_run`, since a default

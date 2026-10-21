@@ -4,7 +4,7 @@ title: 'bot: '
 body:
   - type: markdown
     attributes:
-      value: 'We start every submission at listed. A reachable URL is not a workflow test. See [CONTRIBUTING](https://github.com/OWNER/awesome-grok-bot/blob/main/CONTRIBUTING.md).'
+      value: 'We start every submission at listed. A reachable URL is not a workflow test. See [CONTRIBUTING](https://github.com/Spidermanrobin/awesome-grokbots/blob/main/CONTRIBUTING.md).'
   - type: input
     id: name
     attributes:

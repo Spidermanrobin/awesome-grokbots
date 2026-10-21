@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/OWNER/awesome-grok-bot/blob/main/schema/entry.schema.json",
+  "$id": "https://github.com/Spidermanrobin/awesome-grokbots/blob/main/schema/entry.schema.json",
   "title": "Curated Grok Bot resource",
   "type": "object",
   "additionalProperties": false,

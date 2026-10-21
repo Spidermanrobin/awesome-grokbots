@@ -5,7 +5,7 @@ A curated collection of real Grok Bot shares, skills, MCP connectors, and practi
 
 [English](README.md) · [日本語](README.ja.md) · [简体中文](README.zh-CN.md)
 
-[Browse the site](https://OWNER.github.io/awesome-grok-bot/) · [Contribute](CONTRIBUTING.md) · [JSON](dist/catalog.json) · [llms.txt](llms.txt)
+[Browse the site](https://spidermanrobin.github.io/awesome-grokbots/) · [Contribute](CONTRIBUTING.md) · [JSON](dist/catalog.json) · [llms.txt](llms.txt)
 
 41 Bots | 12 Skills & MCP | 7 Guides
 
@@ -134,7 +134,7 @@ Maintainers may award this badge after a documented featured review. It is not a
 ![awesome Grok Bot featured author](badges/featured.svg)
 
 ```md
-[![Featured on awesome Grok Bot](https://github.com/OWNER/awesome-grok-bot/raw/main/badges/featured.svg)](https://github.com/OWNER/awesome-grok-bot)
+[![Featured on awesome Grok Bot](https://github.com/Spidermanrobin/awesome-grokbots/raw/main/badges/featured.svg)](https://github.com/Spidermanrobin/awesome-grokbots)
 ```
 
 ## Licensing & credits
