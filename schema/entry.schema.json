@@ -1,0 +1,196 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/OWNER/awesome-grok-bot/blob/main/schema/entry.schema.json",
+  "title": "Curated Grok Bot resource",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 220,
+      "pattern": "^[^\\r\\n]+$"
+    },
+    "url": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https://[^\\s]+$"
+    },
+    "category": {
+      "enum": [
+        "finance",
+        "research",
+        "content",
+        "video",
+        "skills",
+        "guides"
+      ]
+    },
+    "tags": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 6,
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+      }
+    },
+    "review": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 220,
+      "pattern": "^[^\\r\\n]+$"
+    },
+    "review_i18n": {
+      "type": "object",
+      "required": [
+        "zh-CN",
+        "ja"
+      ],
+      "additionalProperties": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 220,
+        "pattern": "^[^\\r\\n]+$"
+      },
+      "properties": {
+        "zh-CN": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 220,
+          "pattern": "^[^\\r\\n]+$"
+        },
+        "ja": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 220,
+          "pattern": "^[^\\r\\n]+$"
+        }
+      }
+    },
+    "tier": {
+      "enum": [
+        "featured",
+        "tested",
+        "listed"
+      ]
+    },
+    "language": {
+      "description": "Known content languages; und means not established by the source.",
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "pattern": "^(und|[a-z]{2,3}(?:-[A-Za-z0-9]{2,8})*)$"
+      }
+    },
+    "author": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "name",
+        "handle"
+      ],
+      "properties": {
+        "name": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 220,
+          "pattern": "^[^\\r\\n]+$"
+        },
+        "handle": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "minLength": 1
+        }
+      }
+    },
+    "source": {
+      "type": "object",
+      "required": [
+        "repo",
+        "license"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "repo": {
+          "type": "string",
+          "pattern": "^[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+$"
+        },
+        "license": {
+          "enum": [
+            "CC0-1.0",
+            "CC-BY-4.0"
+          ]
+        },
+        "attribution": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 220,
+          "pattern": "^[^\\r\\n]+$"
+        },
+        "changes": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 220,
+          "pattern": "^[^\\r\\n]+$"
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "license": {
+                "const": "CC-BY-4.0"
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "attribution",
+              "changes"
+            ]
+          }
+        }
+      ]
+    },
+    "added": {
+      "type": "string",
+      "format": "date"
+    },
+    "last_checked": {
+      "type": "string",
+      "format": "date"
+    },
+    "status": {
+      "enum": [
+        "active",
+        "retired"
+      ]
+    }
+  },
+  "required": [
+    "id",
+    "name",
+    "url",
+    "category",
+    "tags",
+    "review",
+    "review_i18n",
+    "tier",
+    "language",
+    "author",
+    "source",
+    "added",
+    "last_checked",
+    "status"
+  ]
+}

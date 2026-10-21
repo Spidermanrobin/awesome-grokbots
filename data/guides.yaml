@@ -1,0 +1,161 @@
+- id: grokbot-field-guide
+  name: Grokbot Field Guide
+  url: https://github.com/tal-giladi/grokbot-field-guide
+  category: guides
+  tags:
+  - use-cases
+  - learning
+  review: Eight use cases to help turn a broad idea into a concrete workflow.
+  review_i18n:
+    zh-CN: 用八个使用场景把宽泛想法变为具体流程。
+    ja: 8つのユースケースで大まかな案を具体的な作業に。
+  tier: listed
+  language:
+  - en
+  author:
+    name: tal-giladi
+    handle: tal-giladi
+  source:
+    repo: RongleCat/awesome-grok-bot
+    license: CC0-1.0
+  added: '2026-10-21'
+  last_checked: '2026-10-21'
+  status: active
+- id: grok-bot-blue-book
+  name: Grok Bot 蓝皮书
+  url: https://github.com/rockyzhuo/grok-bot-blue-book
+  category: guides
+  tags:
+  - setup
+  - learning
+  review: A Chinese-language reference for exploring Grok Bot workflows.
+  review_i18n:
+    zh-CN: 探索 Grok Bot 工作流的中文参考资料。
+    ja: Grok Botの作業フローを学ぶ中国語の参考資料。
+  tier: listed
+  language:
+  - zh-CN
+  author:
+    name: rockyzhuo
+    handle: rockyzhuo
+  source:
+    repo: RongleCat/awesome-grok-bot
+    license: CC0-1.0
+  added: '2026-10-21'
+  last_checked: '2026-10-21'
+  status: active
+- id: technocore-grok-bot-ja
+  name: Technocore Grok Bot 日本語ガイド
+  url: https://github.com/hariou/technocore-grokbot-ja
+  category: guides
+  tags:
+  - setup
+  - learning
+  review: A Japanese-language guide for getting oriented with Grok Bot.
+  review_i18n:
+    zh-CN: 帮助熟悉 Grok Bot 的日语指南。
+    ja: Grok Botの使い方を把握するための日本語ガイド。
+  tier: listed
+  language:
+  - ja
+  author:
+    name: hariou
+    handle: hariou
+  source:
+    repo: RongleCat/awesome-grok-bot
+    license: CC0-1.0
+  added: '2026-10-21'
+  last_checked: '2026-10-21'
+  status: active
+- id: grok-bot-fleet-ops-lessons
+  name: Grok Bot fleet ops lessons
+  url: https://github.com/jasonpalmer1/grok-fleet-lessons
+  category: guides
+  tags:
+  - operations
+  - teams
+  review: Field lessons for keeping a multi-bot setup understandable and manageable.
+  review_i18n:
+    zh-CN: 让多机器人配置易于理解与管理的实践经验。
+    ja: 複数ボットの構成を理解しやすく保つ運用の知見。
+  tier: listed
+  language:
+  - en
+  author:
+    name: jasonpalmer1
+    handle: jasonpalmer1
+  source:
+    repo: RongleCat/awesome-grok-bot
+    license: CC0-1.0
+  added: '2026-10-21'
+  last_checked: '2026-10-21'
+  status: active
+- id: how-i-use-grok-bot
+  name: How I Use Grok Bot
+  url: https://github.com/DevonshireVC/how-i-use-grok-bot
+  category: guides
+  tags:
+  - use-cases
+  - workflow
+  review: A personal walkthrough to compare with your own working habits.
+  review_i18n:
+    zh-CN: 可与你的工作习惯对照的个人实践演示。
+    ja: 自分の働き方と比較できる個人の活用ウォークスルー。
+  tier: listed
+  language:
+  - en
+  author:
+    name: DevonshireVC
+    handle: DevonshireVC
+  source:
+    repo: RongleCat/awesome-grok-bot
+    license: CC0-1.0
+  added: '2026-10-21'
+  last_checked: '2026-10-21'
+  status: active
+- id: verification-loop
+  name: Verification Loop
+  url: https://github.com/PandaHK-Hub/verification-loop
+  category: guides
+  tags:
+  - verification
+  - teams
+  review: A worker-and-auditor loop for reviewing a team's output.
+  review_i18n:
+    zh-CN: 用执行者与审核者循环检查团队产出。
+    ja: 作業担当と監査担当のループでチームの成果を確認。
+  tier: listed
+  language:
+  - en
+  author:
+    name: PandaHK-Hub
+    handle: PandaHK-Hub
+  source:
+    repo: RongleCat/awesome-grok-bot
+    license: CC0-1.0
+  added: '2026-10-21'
+  last_checked: '2026-10-21'
+  status: active
+- id: content-grokbot-kit
+  name: Content Grokbot kit
+  url: https://github.com/xander-using-ai-to-scale/content-grokbot
+  category: guides
+  tags:
+  - content
+  - workflow
+  review: A content-workflow kit to inspect when building a publishing routine.
+  review_i18n:
+    zh-CN: 搭建内容发布流程时可参考的工作流套件。
+    ja: 公開の習慣を組み立てる際に参考になるコンテンツ制作キット。
+  tier: listed
+  language:
+  - en
+  author:
+    name: xander-using-ai-to-scale
+    handle: xander-using-ai-to-scale
+  source:
+    repo: RongleCat/awesome-grok-bot
+    license: CC0-1.0
+  added: '2026-10-21'
+  last_checked: '2026-10-21'
+  status: active

@@ -1,0 +1,434 @@
+{
+  "checked_at": "2026-10-21T01:56:25.018116+00:00",
+  "method": "HTTP GET with browser User-Agent; redirects followed; link reachability only",
+  "results": [
+    {
+      "id": "content-engine",
+      "url": "https://x.ai/bot/FIi-EoU-jxY5Bo7Lp_EVa",
+      "status": 200,
+      "final_url": "https://x.ai/bot/FIi-EoU-jxY5Bo7Lp_EVa",
+      "accepted": true
+    },
+    {
+      "id": "crux",
+      "url": "https://x.ai/bot/SnsO2P9lsQuCKg8xOXA9k",
+      "status": 200,
+      "final_url": "https://x.ai/bot/SnsO2P9lsQuCKg8xOXA9k",
+      "accepted": true
+    },
+    {
+      "id": "earnings-desk",
+      "url": "https://x.ai/bot/vEyqj8oJwHAb0NjdhWJSz",
+      "status": 200,
+      "final_url": "https://x.ai/bot/vEyqj8oJwHAb0NjdhWJSz",
+      "accepted": true
+    },
+    {
+      "id": "invest-bot",
+      "url": "https://x.ai/bot/lU7J1rVgIRu-QbxNL6kbX",
+      "status": 200,
+      "final_url": "https://x.ai/bot/lU7J1rVgIRu-QbxNL6kbX",
+      "accepted": true
+    },
+    {
+      "id": "mr-finance",
+      "url": "https://x.ai/bot/1gepkjYj4Ogl2nKxgopZV",
+      "status": 200,
+      "final_url": "https://x.ai/bot/1gepkjYj4Ogl2nKxgopZV",
+      "accepted": true
+    },
+    {
+      "id": "portfolio-adviser",
+      "url": "https://x.ai/bot/FRPgDTB8gD_iSm6aWIp_Z",
+      "status": 200,
+      "final_url": "https://x.ai/bot/FRPgDTB8gD_iSm6aWIp_Z",
+      "accepted": true
+    },
+    {
+      "id": "quant-backtest-lab",
+      "url": "https://x.ai/bot/TolT21zChD6bYj0ZEA7pE",
+      "status": 200,
+      "final_url": "https://x.ai/bot/TolT21zChD6bYj0ZEA7pE",
+      "accepted": true
+    },
+    {
+      "id": "rental-investor-research-desk",
+      "url": "https://x.ai/bot/L7E3Eh2-CBKZbq4EsO6mt",
+      "status": 200,
+      "final_url": "https://x.ai/bot/L7E3Eh2-CBKZbq4EsO6mt",
+      "accepted": true
+    },
+    {
+      "id": "passive-income-investing-coach",
+      "url": "https://x.ai/bot/5M6pxhGfR_WZl_C9PDxrw",
+      "status": 200,
+      "final_url": "https://x.ai/bot/5M6pxhGfR_WZl_C9PDxrw",
+      "accepted": true
+    },
+    {
+      "id": "finance-bot",
+      "url": "https://x.ai/bot/n-LVavRHTPJnFnBS50XTk",
+      "status": 200,
+      "final_url": "https://x.ai/bot/n-LVavRHTPJnFnBS50XTk",
+      "accepted": true
+    },
+    {
+      "id": "bill-hunter",
+      "url": "https://x.ai/bot/yNU0u9iQKOZKNCZsvLiGj",
+      "status": 200,
+      "final_url": "https://x.ai/bot/yNU0u9iQKOZKNCZsvLiGj",
+      "accepted": true
+    },
+    {
+      "id": "bot-budget-guard",
+      "url": "https://x.ai/bot/CFNwEKsM5nPPRQhPVZMCD",
+      "status": 200,
+      "final_url": "https://x.ai/bot/CFNwEKsM5nPPRQhPVZMCD",
+      "accepted": true
+    },
+    {
+      "id": "co-invest",
+      "url": "https://x.ai/bot/8JYQl4-LD9kj35nL04-Wv",
+      "status": 200,
+      "final_url": "https://x.ai/bot/8JYQl4-LD9kj35nL04-Wv",
+      "accepted": true
+    },
+    {
+      "id": "elliott-wave-pro",
+      "url": "https://x.ai/bot/SbsjQzSlRFqIXosjenXH7",
+      "status": 200,
+      "final_url": "https://x.ai/bot/SbsjQzSlRFqIXosjenXH7",
+      "accepted": true
+    },
+    {
+      "id": "deep-research",
+      "url": "https://x.ai/bot/K_RnTzUnW2bsbRzNkbuS0",
+      "status": 200,
+      "final_url": "https://x.ai/bot/K_RnTzUnW2bsbRzNkbuS0",
+      "accepted": true
+    },
+    {
+      "id": "paperknife",
+      "url": "https://x.ai/bot/RY23hf0sh91-5TGn18af7",
+      "status": 200,
+      "final_url": "https://x.ai/bot/RY23hf0sh91-5TGn18af7",
+      "accepted": true
+    },
+    {
+      "id": "research",
+      "url": "https://x.ai/bot/Q6NiveEqmhIiYir_ZQG-4",
+      "status": 200,
+      "final_url": "https://x.ai/bot/Q6NiveEqmhIiYir_ZQG-4",
+      "accepted": true
+    },
+    {
+      "id": "research-desk",
+      "url": "https://x.ai/bot/99i8BzpcF-FsOKxTQxZRM",
+      "status": 200,
+      "final_url": "https://x.ai/bot/99i8BzpcF-FsOKxTQxZRM",
+      "accepted": true
+    },
+    {
+      "id": "research-manager",
+      "url": "https://x.ai/bot/y5-ZCG-aVvy6dfS5hmyo5",
+      "status": 200,
+      "final_url": "https://x.ai/bot/y5-ZCG-aVvy6dfS5hmyo5",
+      "accepted": true
+    },
+    {
+      "id": "ai-daily-radar",
+      "url": "https://x.ai/bot/EZ8RChmm9gSGmK3SXv-3M",
+      "status": 200,
+      "final_url": "https://x.ai/bot/EZ8RChmm9gSGmK3SXv-3M",
+      "accepted": true
+    },
+    {
+      "id": "markets-digest",
+      "url": "https://x.ai/bot/dqRd0b5Tl61lVkjtP6OrY",
+      "status": 200,
+      "final_url": "https://x.ai/bot/dqRd0b5Tl61lVkjtP6OrY",
+      "accepted": true
+    },
+    {
+      "id": "market-intelligence",
+      "url": "https://x.ai/bot/fikscKtQ-EYcDksv-L6dW",
+      "status": 200,
+      "final_url": "https://x.ai/bot/fikscKtQ-EYcDksv-L6dW",
+      "accepted": true
+    },
+    {
+      "id": "researcher",
+      "url": "https://x.ai/bot/N5IL6i3M-tc-6yr004t0O",
+      "status": 200,
+      "final_url": "https://x.ai/bot/N5IL6i3M-tc-6yr004t0O",
+      "accepted": true
+    },
+    {
+      "id": "agentrail-research",
+      "url": "https://x.ai/bot/vT4SZvFmKSfQjHBrzHema",
+      "status": 200,
+      "final_url": "https://x.ai/bot/vT4SZvFmKSfQjHBrzHema",
+      "accepted": true
+    },
+    {
+      "id": "newsletter-writer",
+      "url": "https://x.ai/bot/s5d2839123b973b4480f9",
+      "status": 200,
+      "final_url": "https://x.ai/bot/s5d2839123b973b4480f9",
+      "accepted": true
+    },
+    {
+      "id": "linkedin-post-writer",
+      "url": "https://x.ai/bot/1mbVjnfwK-2uJY34N_4Dd",
+      "status": 200,
+      "final_url": "https://x.ai/bot/1mbVjnfwK-2uJY34N_4Dd",
+      "accepted": true
+    },
+    {
+      "id": "creator-content-engine-p2u8",
+      "url": "https://x.ai/bot/p2u8R0kbcN5IWcQi9Cpfn",
+      "status": 200,
+      "final_url": "https://x.ai/bot/p2u8R0kbcN5IWcQi9Cpfn",
+      "accepted": true
+    },
+    {
+      "id": "content-week-planner",
+      "url": "https://x.ai/bot/WuuAHgUSCn1bU4ZaztXdy",
+      "status": 200,
+      "final_url": "https://x.ai/bot/WuuAHgUSCn1bU4ZaztXdy",
+      "accepted": true
+    },
+    {
+      "id": "content-planner",
+      "url": "https://x.ai/bot/65wGaCazNY1t1K3I4oFy0",
+      "status": 200,
+      "final_url": "https://x.ai/bot/65wGaCazNY1t1K3I4oFy0",
+      "accepted": true
+    },
+    {
+      "id": "social-supervisor",
+      "url": "https://x.ai/bot/IRLoWA2QOfhsBQtQ1d79Z",
+      "status": 200,
+      "final_url": "https://x.ai/bot/IRLoWA2QOfhsBQtQ1d79Z",
+      "accepted": true
+    },
+    {
+      "id": "content-intern",
+      "url": "https://x.ai/bot/3VL9ILZ-TUY_YyR2aPQhB",
+      "status": 200,
+      "final_url": "https://x.ai/bot/3VL9ILZ-TUY_YyR2aPQhB",
+      "accepted": true
+    },
+    {
+      "id": "clipping-bot",
+      "url": "https://x.ai/bot/DqEVmbXRKLneHRrUihAfx",
+      "status": 200,
+      "final_url": "https://x.ai/bot/DqEVmbXRKLneHRrUihAfx",
+      "accepted": true
+    },
+    {
+      "id": "video-script-writer",
+      "url": "https://x.ai/bot/Hj01jL8dJIkTGPWS3VcMM",
+      "status": 200,
+      "final_url": "https://x.ai/bot/Hj01jL8dJIkTGPWS3VcMM",
+      "accepted": true
+    },
+    {
+      "id": "video-studio",
+      "url": "https://x.ai/bot/IuJhSoFMnhwjBsTtYEKTF",
+      "status": 200,
+      "final_url": "https://x.ai/bot/IuJhSoFMnhwjBsTtYEKTF",
+      "accepted": true
+    },
+    {
+      "id": "video-transcript",
+      "url": "https://x.ai/bot/Al7SlxN5w6wFUUAxummZP",
+      "status": 200,
+      "final_url": "https://x.ai/bot/Al7SlxN5w6wFUUAxummZP",
+      "accepted": true
+    },
+    {
+      "id": "video-digest",
+      "url": "https://x.ai/bot/TeJ0KcaIa_mg_H29DumJl",
+      "status": 200,
+      "final_url": "https://x.ai/bot/TeJ0KcaIa_mg_H29DumJl",
+      "accepted": true
+    },
+    {
+      "id": "youtube-episode-launch-prep",
+      "url": "https://x.ai/bot/7yZBZ7mRlO3wdK2Nzemm5",
+      "status": 200,
+      "final_url": "https://x.ai/bot/7yZBZ7mRlO3wdK2Nzemm5",
+      "accepted": true
+    },
+    {
+      "id": "youtube-field-producer",
+      "url": "https://x.ai/bot/Nf0M-LgnNsLDvtvAKnASf",
+      "status": 200,
+      "final_url": "https://x.ai/bot/Nf0M-LgnNsLDvtvAKnASf",
+      "accepted": true
+    },
+    {
+      "id": "video-upscale-desk",
+      "url": "https://x.ai/bot/iJYZ4GQ775Sts3COWP3aY",
+      "status": 200,
+      "final_url": "https://x.ai/bot/iJYZ4GQ775Sts3COWP3aY",
+      "accepted": true
+    },
+    {
+      "id": "2nd-brain",
+      "url": "https://x.ai/bot/c4fYduVVic2YtbcjXquD0",
+      "status": 200,
+      "final_url": "https://x.ai/bot/c4fYduVVic2YtbcjXquD0",
+      "accepted": true
+    },
+    {
+      "id": "interrogator",
+      "url": "https://x.ai/bot/-TlSH1rNkA-c2JLsFFVc7",
+      "status": 200,
+      "final_url": "https://x.ai/bot/-TlSH1rNkA-c2JLsFFVc7",
+      "accepted": true
+    },
+    {
+      "id": "chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "status": 200,
+      "final_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "accepted": true
+    },
+    {
+      "id": "figma-grok",
+      "url": "https://github.com/SIMPL-Automation/figma-grok",
+      "status": 200,
+      "final_url": "https://github.com/SIMPL-Automation/figma-grok",
+      "accepted": true
+    },
+    {
+      "id": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "status": 200,
+      "final_url": "https://github.com/obra/superpowers",
+      "accepted": true
+    },
+    {
+      "id": "firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl-grok-plugin",
+      "status": 200,
+      "final_url": "https://github.com/firecrawl/firecrawl-grok-plugin",
+      "accepted": true
+    },
+    {
+      "id": "tavily",
+      "url": "https://github.com/tavily-ai/tavily-grok-plugin",
+      "status": 200,
+      "final_url": "https://github.com/tavily-ai/tavily-grok-plugin",
+      "accepted": true
+    },
+    {
+      "id": "pallyy",
+      "url": "https://github.com/pallyysocial/pallyy-agent",
+      "status": 200,
+      "final_url": "https://github.com/pallyysocial/pallyy-agent",
+      "accepted": true
+    },
+    {
+      "id": "fintable",
+      "url": "https://github.com/ibnIrshad/fintable-grok-plugin",
+      "status": 200,
+      "final_url": "https://github.com/ibnIrshad/fintable-grok-plugin",
+      "accepted": true
+    },
+    {
+      "id": "pixeldojo",
+      "url": "https://github.com/blovett80/pixeldojo-plugin",
+      "status": 200,
+      "final_url": "https://github.com/blovett80/pixeldojo-plugin",
+      "accepted": true
+    },
+    {
+      "id": "exa",
+      "url": "https://github.com/exa-labs/exa-grok-plugin",
+      "status": 200,
+      "final_url": "https://github.com/exa-labs/exa-grok-plugin",
+      "accepted": true
+    },
+    {
+      "id": "xai-plugin-marketplace",
+      "url": "https://github.com/xai-org/plugin-marketplace",
+      "status": 200,
+      "final_url": "https://github.com/xai-org/plugin-marketplace",
+      "accepted": true
+    },
+    {
+      "id": "imagine-mcp",
+      "url": "https://github.com/Archive228/imagine-mcp",
+      "status": 200,
+      "final_url": "https://github.com/Archive228/imagine-mcp",
+      "accepted": true
+    },
+    {
+      "id": "overnight",
+      "url": "https://github.com/Archive228/overnight",
+      "status": 200,
+      "final_url": "https://github.com/Archive228/overnight",
+      "accepted": true
+    },
+    {
+      "id": "grok-bot-getting-started",
+      "url": "https://github.com/mrlynn/grok-bot-getting-started",
+      "status": 404,
+      "final_url": "https://github.com/mrlynn/grok-bot-getting-started",
+      "accepted": false,
+      "exclusion_reason": "HTTP 404 during initial seed verification; never added to the active catalog."
+    },
+    {
+      "id": "grokbot-field-guide",
+      "url": "https://github.com/tal-giladi/grokbot-field-guide",
+      "status": 200,
+      "final_url": "https://github.com/tal-giladi/grokbot-field-guide",
+      "accepted": true
+    },
+    {
+      "id": "grok-bot-blue-book",
+      "url": "https://github.com/rockyzhuo/grok-bot-blue-book",
+      "status": 200,
+      "final_url": "https://github.com/rockyzhuo/grok-bot-blue-book",
+      "accepted": true
+    },
+    {
+      "id": "technocore-grok-bot-ja",
+      "url": "https://github.com/hariou/technocore-grokbot-ja",
+      "status": 200,
+      "final_url": "https://github.com/hariou/technocore-grokbot-ja",
+      "accepted": true
+    },
+    {
+      "id": "grok-bot-fleet-ops-lessons",
+      "url": "https://github.com/jasonpalmer1/grok-fleet-lessons",
+      "status": 200,
+      "final_url": "https://github.com/jasonpalmer1/grok-fleet-lessons",
+      "accepted": true
+    },
+    {
+      "id": "how-i-use-grok-bot",
+      "url": "https://github.com/DevonshireVC/how-i-use-grok-bot",
+      "status": 200,
+      "final_url": "https://github.com/DevonshireVC/how-i-use-grok-bot",
+      "accepted": true
+    },
+    {
+      "id": "verification-loop",
+      "url": "https://github.com/PandaHK-Hub/verification-loop",
+      "status": 200,
+      "final_url": "https://github.com/PandaHK-Hub/verification-loop",
+      "accepted": true
+    },
+    {
+      "id": "content-grokbot-kit",
+      "url": "https://github.com/xander-using-ai-to-scale/content-grokbot",
+      "status": 200,
+      "final_url": "https://github.com/xander-using-ai-to-scale/content-grokbot",
+      "accepted": true
+    }
+  ]
+}

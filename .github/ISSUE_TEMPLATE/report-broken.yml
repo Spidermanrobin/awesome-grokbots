@@ -1,0 +1,24 @@
+name: Report a broken or misleading entry
+description: Report a dead URL, wrong attribution, stale description, or workflow problem.
+title: 'report: '
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Entry ID or URL
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: What happened?
+      options: [404 or 410, Blocked or sign-in wall, Wrong author or license, Inaccurate review, Workflow issue, Other correction]
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: What you observed and when
+      description: Include HTTP status if known. Do not include private data or credentials. 403/429 and network errors do not prove removal.
+    validations:
+      required: true

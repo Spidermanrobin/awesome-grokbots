@@ -1,0 +1,85 @@
+language_name: 简体中文
+eyebrow: 社区精选指南
+hero_title: '好机器人，
+
+  更多可能。'
+hero_text: 精心整理的 Grok Bot、技能与指南。从这里找到你关心的工作的起点。
+explore: 探索资源库
+submit: 提交资源
+directory: 资源目录
+weekly: 每周精选
+about: 收录原则
+github: 在 GitHub 查看
+search: 搜索机器人、技能、作者或想法…
+all: 全部资源
+all_categories: 全部分类
+all_tiers: 全部评级
+all_tags: 全部标签
+sort: 排序
+sort_name: 名称 A–Z
+sort_new: 最近添加
+category: 分类
+tier: 评审等级
+tag: 标签
+results: '{count} 个资源'
+collection: 资源库
+collection_text: 小工具，用心的工作流。从这里开始。
+reset: 清除筛选
+no_results: 暂无匹配结果
+no_results_text: 试试其他关键词，或清除筛选条件。
+listed: 已收录
+tested: 已测试
+featured: 精选
+listed_note: 链接已检查，可自行评估使用。
+trust_title: 用心收录，如实标注。
+trust_text: 每条资源都有来源、许可和链接检查日期。「已收录」仅代表链接响应成功，不代表工作流经过测试。
+picks_empty: 第一期精选正在准备中。
+picks_text: 维护者评审工作流后将在这里发布每周精选。现在可以先探索资源库。
+picks_label: 每周，留一点有用的信息
+open: 打开资源
+by: 作者
+source: 来源
+checked: 链接检查
+resources: 资源
+languages: 语言
+open_data: 开放数据
+footer: 为好奇心而建，由社区维护。
+independent: 独立社区项目，与 xAI 无隶属关系。
+loading: 正在加载资源库…
+load_error: 无法加载目录，请刷新或查看 GitHub README。
+readme_intro: 精选真实 Grok Bot 分享、技能、MCP 连接器与实用指南。
+browse: 浏览网站
+contribute: 参与贡献
+policy: 评审原则
+policy_text: 所有初始资源均为「已收录」：URL 返回 HTTP <400。不代表经过工作流测试、安全评审或性能背书。「已测试」与「精选」仅在维护者完成有记录的评审后使用。
+quickstart: 本地开发
+data_title: 数据说明
+data_text: 编辑 data/*.yaml，再运行 scripts/build.py。新增语言只需添加键结构相同的 i18n/*.yaml；缺失的条目翻译回退到英语。
+badge_title: 精选作者徽章
+badge_text: 维护者可在完成有记录的精选评审后授予徽章。初始条目均未获授。
+license_title: 许可与致谢
+license_text: 代码采用 MIT。目录元数据按行采用 CC0-1.0 或 CC-BY-4.0。复用 CC-BY 条目时保留来源署名与修改说明。链接资源遵循其自身许可。
+author: 作者
+review: 精选短评
+license: 元数据许可
+status: 状态
+unknown_language: 语言未确认
+download: 下载 JSON
+categories:
+  finance: 金融与投资
+  research: 研究与洞察
+  content: 内容与社交
+  video: 视频与叙事
+  skills: 技能与 MCP
+  guides: 指南与实践
+kinds:
+  bots: 机器人
+  skills: 技能与 MCP
+  guides: 指南
+skip: 跳转到资源库
+home: awesome Grok Bot 首页
+navigation: 主导航
+resource_type: 资源类型
+language_label: 语言
+suggest_pick: 推荐每周精选
+art_caption: 多一点可能。

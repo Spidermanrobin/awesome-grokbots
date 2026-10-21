@@ -1,0 +1,1888 @@
+{
+  "name": "awesome Grok Bot",
+  "repository": "https://github.com/OWNER/awesome-grok-bot",
+  "schema_version": 1,
+  "last_checked": "2026-10-21",
+  "counts": {
+    "bots": 41,
+    "skills": 12,
+    "guides": 7
+  },
+  "licenses": {
+    "CC-BY-4.0": 5,
+    "CC0-1.0": 55
+  },
+  "entries": [
+    {
+      "id": "2nd-brain",
+      "name": "2nd Brain",
+      "url": "https://x.ai/bot/c4fYduVVic2YtbcjXquD0",
+      "category": "research",
+      "tags": [
+        "knowledge",
+        "research"
+      ],
+      "review": "Turns reading into a linked knowledge base you can query.",
+      "review_i18n": {
+        "zh-CN": "把阅读内容整理成可查询的关联知识库。",
+        "ja": "読んだ内容を質問できるリンク付き知識ベースに。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "LeTerryBZH",
+        "handle": "LeTerryBZH"
+      },
+      "source": {
+        "repo": "majiayu000/awesome-grok-bot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "agentrail-research",
+      "name": "AgentRail Research",
+      "url": "https://x.ai/bot/vT4SZvFmKSfQjHBrzHema",
+      "category": "research",
+      "tags": [
+        "sources",
+        "search"
+      ],
+      "review": "A pay-per-call research option that returns cited findings.",
+      "review_i18n": {
+        "zh-CN": "按调用付费、返回引用来源的研究选项。",
+        "ja": "呼び出し単位の課金で出典付き調査結果を得る選択肢。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "Bryan",
+        "handle": "VolHawk1"
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "ai-daily-radar",
+      "name": "AI Daily Radar",
+      "url": "https://x.ai/bot/EZ8RChmm9gSGmK3SXv-3M",
+      "category": "research",
+      "tags": [
+        "ai",
+        "news"
+      ],
+      "review": "A compact morning scan of AI launches, pricing, and benchmark claims.",
+      "review_i18n": {
+        "zh-CN": "精简晨报，关注 AI 发布、价格与评测主张。",
+        "ja": "AIの発表、価格、ベンチマークの主張を朝に確認。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "Michael",
+        "handle": "community"
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "bill-hunter",
+      "name": "Bill Hunter",
+      "url": "https://x.ai/bot/yNU0u9iQKOZKNCZsvLiGj",
+      "category": "finance",
+      "tags": [
+        "subscriptions",
+        "budgeting"
+      ],
+      "review": "Surfaces renewals, duplicate charges, and cancellation drafts for review.",
+      "review_i18n": {
+        "zh-CN": "找出续费、重复扣款，并起草取消申请供审核。",
+        "ja": "更新や重複請求を見つけ、解約依頼の下書きを用意。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "Don",
+        "handle": "Screaming_Chkn"
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "bot-budget-guard",
+      "name": "Bot Budget Guard",
+      "url": "https://x.ai/bot/CFNwEKsM5nPPRQhPVZMCD",
+      "category": "finance",
+      "tags": [
+        "budgeting",
+        "operations"
+      ],
+      "review": "Makes bot-job usage visible before you decide what to cut.",
+      "review_i18n": {
+        "zh-CN": "先看清机器人任务用量，再决定削减哪些工作。",
+        "ja": "ボットの作業量を見える化してから削減を検討。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "Michael",
+        "handle": "MikeysMolecules"
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "clipping-bot",
+      "name": "Clipping Bot",
+      "url": "https://x.ai/bot/DqEVmbXRKLneHRrUihAfx",
+      "category": "video",
+      "tags": [
+        "clips",
+        "captions"
+      ],
+      "review": "Packages long videos into captioned clips and copy for approval.",
+      "review_i18n": {
+        "zh-CN": "将长视频整理为带字幕的片段与文案供审核。",
+        "ja": "長尺動画を字幕付きクリップと承認用の文案に。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "OpusClip",
+        "handle": "stevenvan_"
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "co-invest",
+      "name": "Co-Invest",
+      "url": "https://x.ai/bot/8JYQl4-LD9kj35nL04-Wv",
+      "category": "finance",
+      "tags": [
+        "markets",
+        "research"
+      ],
+      "review": "A market-data entry point to explore alongside your investment research.",
+      "review_i18n": {
+        "zh-CN": "可配合投资研究探索的市场数据入口。",
+        "ja": "投資調査と併せて探索できる市場データの入口。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "Franklyn",
+        "handle": "frank_liquid"
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "content-engine",
+      "name": "Content Engine",
+      "url": "https://x.ai/bot/FIi-EoU-jxY5Bo7Lp_EVa",
+      "category": "content",
+      "tags": [
+        "publishing",
+        "video"
+      ],
+      "review": "Turns a weekly filming session into a coordinated set of content assets.",
+      "review_i18n": {
+        "zh-CN": "把每周拍摄内容整理为一组配套素材。",
+        "ja": "週の撮影素材を一連のコンテンツに展開。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "Eric",
+        "handle": "erictschroeder"
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "content-intern",
+      "name": "Content Intern",
+      "url": "https://x.ai/bot/3VL9ILZ-TUY_YyR2aPQhB",
+      "category": "content",
+      "tags": [
+        "seo",
+        "research"
+      ],
+      "review": "Researches B2B topics and prepares SEO blog drafts.",
+      "review_i18n": {
+        "zh-CN": "研究 B2B 话题并准备 SEO 博客草稿。",
+        "ja": "B2Bの話題を調べ、SEO記事の下書きを用意。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "Zaryab",
+        "handle": "avgmagician"
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "content-planner",
+      "name": "Content Planner",
+      "url": "https://x.ai/bot/65wGaCazNY1t1K3I4oFy0",
+      "category": "content",
+      "tags": [
+        "seo",
+        "planning"
+      ],
+      "review": "Uses Search Console signals to decide what to write or refresh next.",
+      "review_i18n": {
+        "zh-CN": "利用 Search Console 数据规划新内容与更新。",
+        "ja": "Search Consoleのデータで次に書く記事や更新を検討。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "Minh",
+        "handle": "SEOmatic"
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "content-week-planner",
+      "name": "Content Week Planner",
+      "url": "https://x.ai/bot/WuuAHgUSCn1bU4ZaztXdy",
+      "category": "content",
+      "tags": [
+        "planning",
+        "social"
+      ],
+      "review": "A practical way to turn a few themes into a week of post drafts.",
+      "review_i18n": {
+        "zh-CN": "将几个主题变成一周帖文草稿的实用起点。",
+        "ja": "いくつかのテーマを一週間の投稿案へ展開。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "AdventureNLearn",
+        "handle": "community"
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "creator-content-engine-p2u8",
+      "name": "Creator Content Engine",
+      "url": "https://x.ai/bot/p2u8R0kbcN5IWcQi9Cpfn",
+      "category": "content",
+      "tags": [
+        "social",
+        "drafts"
+      ],
+      "review": "Creates source-labeled X drafts from a topic, image, or news item.",
+      "review_i18n": {
+        "zh-CN": "从话题、图片或新闻生成标注来源的 X 草稿。",
+        "ja": "話題、画像、ニュースから出典を示したX投稿案を作る。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "🇺🇸",
+        "handle": null
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "crux",
+      "name": "Crux",
+      "url": "https://x.ai/bot/SnsO2P9lsQuCKg8xOXA9k",
+      "category": "video",
+      "tags": [
+        "summaries",
+        "research"
+      ],
+      "review": "Condenses video and podcast clips into a short reading brief.",
+      "review_i18n": {
+        "zh-CN": "将视频和播客片段浓缩为简短阅读摘要。",
+        "ja": "動画やポッドキャストのクリップを短いブリーフに。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "Bobby",
+        "handle": "BobbyBacklogs"
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "deep-research",
+      "name": "Deep Research",
+      "url": "https://x.ai/bot/K_RnTzUnW2bsbRzNkbuS0",
+      "category": "research",
+      "tags": [
+        "sources",
+        "briefings"
+      ],
+      "review": "A sources-first brief builder for questions that need deeper reading.",
+      "review_i18n": {
+        "zh-CN": "面向需要深入阅读的问题，优先整理有来源的简报。",
+        "ja": "深く読む必要のある問いに、出典重視のブリーフを。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "Wardonis",
+        "handle": "Wardonis"
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "earnings-desk",
+      "name": "Earnings Desk",
+      "url": "https://x.ai/bot/vEyqj8oJwHAb0NjdhWJSz",
+      "category": "finance",
+      "tags": [
+        "earnings",
+        "stocks"
+      ],
+      "review": "A focused desk for earnings tearsheets and a ticker watchlist.",
+      "review_i18n": {
+        "zh-CN": "聚焦财报摘要与股票观察清单。",
+        "ja": "決算の要点と銘柄ウォッチリストをまとめるデスク。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "Sachiv",
+        "handle": "SachivM99"
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "elliott-wave-pro",
+      "name": "Elliott Wave Pro",
+      "url": "https://x.ai/bot/SbsjQzSlRFqIXosjenXH7",
+      "category": "finance",
+      "tags": [
+        "stocks",
+        "crypto"
+      ],
+      "review": "Maps Elliott Wave scenarios with explicit invalidation levels.",
+      "review_i18n": {
+        "zh-CN": "绘制艾略特波浪情景并标明失效条件。",
+        "ja": "エリオット波動のシナリオと無効化水準を整理。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "Viktor",
+        "handle": "BitrockLLC"
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "finance-bot",
+      "name": "Finance Bot",
+      "url": "https://x.ai/bot/n-LVavRHTPJnFnBS50XTk",
+      "category": "finance",
+      "tags": [
+        "bookkeeping",
+        "spreadsheets"
+      ],
+      "review": "Logs business-mail expenses and revenue into a Google Sheet.",
+      "review_i18n": {
+        "zh-CN": "将业务邮箱中的支出与收入记录到 Google 表格。",
+        "ja": "業務メールの支出と収入をGoogleスプレッドシートに記録。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "John",
+        "handle": "John"
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "interrogator",
+      "name": "Interrogator",
+      "url": "https://x.ai/bot/-TlSH1rNkA-c2JLsFFVc7",
+      "category": "research",
+      "tags": [
+        "analysis",
+        "questions"
+      ],
+      "review": "A useful prompt to revisit the assumptions carrying a decision.",
+      "review_i18n": {
+        "zh-CN": "帮助重新审视影响决策的关键假设。",
+        "ja": "判断を支える前提を見直すきっかけに。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "liam_fallen",
+        "handle": "liam_fallen"
+      },
+      "source": {
+        "repo": "cs68614-hash/awesome-grokbot-templates",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "invest-bot",
+      "name": "Invest Bot",
+      "url": "https://x.ai/bot/lU7J1rVgIRu-QbxNL6kbX",
+      "category": "finance",
+      "tags": [
+        "investing",
+        "etfs"
+      ],
+      "review": "A straightforward starting point for stock and ETF research.",
+      "review_i18n": {
+        "zh-CN": "适合从股票与 ETF 研究入手。",
+        "ja": "株式とETFの調査を始めるためのシンプルな入口。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "Justin",
+        "handle": "QuState"
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "linkedin-post-writer",
+      "name": "Linkedin Post Writer",
+      "url": "https://x.ai/bot/1mbVjnfwK-2uJY34N_4Dd",
+      "category": "content",
+      "tags": [
+        "linkedin",
+        "writing"
+      ],
+      "review": "Finds useful ideas in your work and shapes them into LinkedIn posts.",
+      "review_i18n": {
+        "zh-CN": "从工作中提炼有用观点，整理为 LinkedIn 帖文。",
+        "ja": "仕事の気づきを見つけ、LinkedInの投稿に整える。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "ar33b",
+        "handle": null
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "market-intelligence",
+      "name": "Market Intelligence",
+      "url": "https://x.ai/bot/fikscKtQ-EYcDksv-L6dW",
+      "category": "research",
+      "tags": [
+        "social",
+        "markets"
+      ],
+      "review": "Tracks the conversations moving across X, Reddit, and Hacker News.",
+      "review_i18n": {
+        "zh-CN": "跟踪 X、Reddit 与 Hacker News 上的热门讨论。",
+        "ja": "X、Reddit、Hacker Newsを横断して話題を追う。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "Avid",
+        "handle": "Av1dlive"
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "markets-digest",
+      "name": "Markets Digest",
+      "url": "https://x.ai/bot/dqRd0b5Tl61lVkjtP6OrY",
+      "category": "research",
+      "tags": [
+        "markets",
+        "news"
+      ],
+      "review": "Sourced market stories organized into morning and evening digests.",
+      "review_i18n": {
+        "zh-CN": "将带来源的市场新闻整理为早晚摘要。",
+        "ja": "出典付きの市場ニュースを朝夕のダイジェストに。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "Mark",
+        "handle": "marksoze"
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "mr-finance",
+      "name": "Mr. Finance",
+      "url": "https://x.ai/bot/1gepkjYj4Ogl2nKxgopZV",
+      "category": "finance",
+      "tags": [
+        "portfolio",
+        "risk"
+      ],
+      "review": "Read-only portfolio monitoring with attention to risk and thesis changes.",
+      "review_i18n": {
+        "zh-CN": "只读监控投资组合，关注风险与投资逻辑变化。",
+        "ja": "リスクと投資仮説の変化に注目する読み取り専用の監視役。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "Jonathan",
+        "handle": "JonnyCakeSouza"
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "newsletter-writer",
+      "name": "Newsletter Writer",
+      "url": "https://x.ai/bot/s5d2839123b973b4480f9",
+      "category": "content",
+      "tags": [
+        "newsletter",
+        "writing"
+      ],
+      "review": "Turns launches and recent wins into a newsletter draft in your voice.",
+      "review_i18n": {
+        "zh-CN": "把发布与近期成果整理成符合你风格的通讯草稿。",
+        "ja": "発表や成果を自分らしいニュースレターの下書きに。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "SpaceX",
+        "handle": "DenisLabelle"
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "paperknife",
+      "name": "Paperknife",
+      "url": "https://x.ai/bot/RY23hf0sh91-5TGn18af7",
+      "category": "research",
+      "tags": [
+        "papers",
+        "ai"
+      ],
+      "review": "Distills full AI papers into claims, practical uses, and the math behind them.",
+      "review_i18n": {
+        "zh-CN": "从 AI 论文全文提炼主张、用途与数学依据。",
+        "ja": "AI論文の全文から主張、用途、数学的背景を抽出。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "UncleKoco",
+        "handle": "KyleSmith0204"
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "passive-income-investing-coach",
+      "name": "Passive Income Investing Coach",
+      "url": "https://x.ai/bot/5M6pxhGfR_WZl_C9PDxrw",
+      "category": "finance",
+      "tags": [
+        "investing",
+        "learning"
+      ],
+      "review": "An educational companion for thinking through passive-income goals.",
+      "review_i18n": {
+        "zh-CN": "帮助梳理被动收入目标的学习伙伴。",
+        "ja": "不労所得の目標を考えるための学習パートナー。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "Jorge",
+        "handle": "jsanmcmxcix"
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "portfolio-adviser",
+      "name": "Portfolio Adviser",
+      "url": "https://x.ai/bot/FRPgDTB8gD_iSm6aWIp_Z",
+      "category": "finance",
+      "tags": [
+        "portfolio",
+        "investing"
+      ],
+      "review": "Connects holdings, market news, and rebalancing questions in one place.",
+      "review_i18n": {
+        "zh-CN": "把持仓、市场新闻与再平衡问题集中整理。",
+        "ja": "保有資産、市場ニュース、リバランスの検討を一か所に。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "Avid",
+        "handle": null
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "quant-backtest-lab",
+      "name": "Quant Backtest Lab · 量化回测台",
+      "url": "https://x.ai/bot/TolT21zChD6bYj0ZEA7pE",
+      "category": "finance",
+      "tags": [
+        "backtesting",
+        "python"
+      ],
+      "review": "Turns trading ideas into explicit rules and cost-aware research backtests.",
+      "review_i18n": {
+        "zh-CN": "将交易想法转为明确规则与考虑成本的回测。",
+        "ja": "売買アイデアを明確なルールとコストを考慮した検証に。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "jack",
+        "handle": "jackhu_bangzhu"
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "rental-investor-research-desk",
+      "name": "Rental Investor Research Desk",
+      "url": "https://x.ai/bot/L7E3Eh2-CBKZbq4EsO6mt",
+      "category": "finance",
+      "tags": [
+        "real-estate",
+        "research"
+      ],
+      "review": "Screens rental listings against your criteria and organizes underwriting research.",
+      "review_i18n": {
+        "zh-CN": "按条件筛选出租房源，整理投资测算资料。",
+        "ja": "条件に合う賃貸物件を絞り、投資判断の調査を整理。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "Tom",
+        "handle": null
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "research",
+      "name": "Research",
+      "url": "https://x.ai/bot/Q6NiveEqmhIiYir_ZQG-4",
+      "category": "research",
+      "tags": [
+        "sources",
+        "analysis"
+      ],
+      "review": "Keeps cited facts and interpretation distinct in research answers.",
+      "review_i18n": {
+        "zh-CN": "在研究回答中区分有出处的事实与解读。",
+        "ja": "調査回答で出典のある事実と解釈を分ける。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "Andrew",
+        "handle": "Andrew Kittridge"
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "research-desk",
+      "name": "Research Desk",
+      "url": "https://x.ai/bot/99i8BzpcF-FsOKxTQxZRM",
+      "category": "research",
+      "tags": [
+        "drafts",
+        "sources"
+      ],
+      "review": "Prepares sourced research drafts for a human approval step.",
+      "review_i18n": {
+        "zh-CN": "准备带来源的研究草稿，交由人工审核。",
+        "ja": "出典付きの調査草稿を作り、人の承認につなぐ。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "D",
+        "handle": "justsomeguy741"
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "research-manager",
+      "name": "Research Manager",
+      "url": "https://x.ai/bot/y5-ZCG-aVvy6dfS5hmyo5",
+      "category": "research",
+      "tags": [
+        "fact-checking",
+        "analysis"
+      ],
+      "review": "Grades sources and turns fact checks into useful deep-dive memos.",
+      "review_i18n": {
+        "zh-CN": "评估来源，将事实核查整理为深度备忘录。",
+        "ja": "情報源を評価し、事実確認を詳しい調査メモに。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "Sultan",
+        "handle": "BrandsofSultan"
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "researcher",
+      "name": "Researcher",
+      "url": "https://x.ai/bot/N5IL6i3M-tc-6yr004t0O",
+      "category": "research",
+      "tags": [
+        "sources",
+        "analysis"
+      ],
+      "review": "Breaks a question into smaller asks and collects direct, sourced answers.",
+      "review_i18n": {
+        "zh-CN": "拆解问题，收集直接且有来源的回答。",
+        "ja": "問いを小さく分け、直接答える出典付き情報を集める。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "Thomas",
+        "handle": "Tferriere"
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "social-supervisor",
+      "name": "Social Supervisor",
+      "url": "https://x.ai/bot/IRLoWA2QOfhsBQtQ1d79Z",
+      "category": "content",
+      "tags": [
+        "social",
+        "drafts"
+      ],
+      "review": "Pairs weekday X digests with reply flags and draft-only posts.",
+      "review_i18n": {
+        "zh-CN": "将工作日 X 摘要、回复提醒与帖文草稿结合。",
+        "ja": "平日のXダイジェスト、返信候補、投稿の下書きを整理。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "Growth",
+        "handle": "fxopsAI"
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "video-digest",
+      "name": "Video Digest",
+      "url": "https://x.ai/bot/TeJ0KcaIa_mg_H29DumJl",
+      "category": "video",
+      "tags": [
+        "summaries",
+        "research"
+      ],
+      "review": "Adds charts, slides, and on-screen context to video summaries.",
+      "review_i18n": {
+        "zh-CN": "在视频摘要中纳入图表、幻灯片与画面信息。",
+        "ja": "動画の要約に図表、スライド、画面の情報も加える。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "The",
+        "handle": "UncleMikeyLA"
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "video-script-writer",
+      "name": "Video Script writer",
+      "url": "https://x.ai/bot/Hj01jL8dJIkTGPWS3VcMM",
+      "category": "video",
+      "tags": [
+        "scripts",
+        "shorts"
+      ],
+      "review": "A writing desk for hooks and spoken scripts across short and long video.",
+      "review_i18n": {
+        "zh-CN": "为长短视频撰写开场钩子与口播脚本。",
+        "ja": "短尺から長尺まで、導入と読み上げ台本を作成。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "Jeroen",
+        "handle": null
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "video-studio",
+      "name": "Video Studio",
+      "url": "https://x.ai/bot/IuJhSoFMnhwjBsTtYEKTF",
+      "category": "video",
+      "tags": [
+        "remotion",
+        "production"
+      ],
+      "review": "Builds product and launch videos in code using real interface footage.",
+      "review_i18n": {
+        "zh-CN": "用代码与真实界面素材制作产品和发布视频。",
+        "ja": "実際の画面素材とコードで製品・発表動画を制作。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "Ali",
+        "handle": "barlak"
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "video-transcript",
+      "name": "Video Transcript",
+      "url": "https://x.ai/bot/Al7SlxN5w6wFUUAxummZP",
+      "category": "video",
+      "tags": [
+        "transcripts",
+        "translation"
+      ],
+      "review": "Turns YouTube audio into a transcript, summary, and translation.",
+      "review_i18n": {
+        "zh-CN": "将 YouTube 音频转为转录、摘要与翻译。",
+        "ja": "YouTubeの音声を文字起こし、要約、翻訳へ。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "Kaninomizoshiru",
+        "handle": "kaninomiz0shiru"
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "video-upscale-desk",
+      "name": "Video Upscale Desk",
+      "url": "https://x.ai/bot/iJYZ4GQ775Sts3COWP3aY",
+      "category": "video",
+      "tags": [
+        "editing",
+        "production"
+      ],
+      "review": "A focused utility for Lanczos upscaling while preserving the audio stream.",
+      "review_i18n": {
+        "zh-CN": "专注 Lanczos 放大，并保留原音频流。",
+        "ja": "音声ストリームを保持しつつLanczosで拡大するツール。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "Moe",
+        "handle": "navymikeoif"
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "youtube-episode-launch-prep",
+      "name": "YouTube Episode Launch Prep",
+      "url": "https://x.ai/bot/7yZBZ7mRlO3wdK2Nzemm5",
+      "category": "video",
+      "tags": [
+        "youtube",
+        "publishing"
+      ],
+      "review": "Organizes titles and launch materials for podcast or interview episodes.",
+      "review_i18n": {
+        "zh-CN": "为播客或访谈节目整理标题与发布素材。",
+        "ja": "ポッドキャストやインタビューのタイトルと公開素材を整理。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "Bill",
+        "handle": "ProbateWeekly"
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "youtube-field-producer",
+      "name": "Video Field Producer",
+      "url": "https://x.ai/bot/Nf0M-LgnNsLDvtvAKnASf",
+      "category": "video",
+      "tags": [
+        "youtube",
+        "planning"
+      ],
+      "review": "Plans shoots and helps package public uploads and Shorts ideas.",
+      "review_i18n": {
+        "zh-CN": "规划拍摄，协助整理公开视频与 Shorts 创意。",
+        "ja": "撮影計画、公開動画の整理、Shortsのアイデアを支援。"
+      },
+      "tier": "listed",
+      "language": [
+        "und"
+      ],
+      "author": {
+        "name": "Timothy",
+        "handle": "RetiredYoungNW"
+      },
+      "source": {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "bots"
+    },
+    {
+      "id": "chrome-devtools-mcp",
+      "name": "Chrome DevTools MCP",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "category": "skills",
+      "tags": [
+        "mcp",
+        "debugging"
+      ],
+      "review": "Inspect browser behavior, network requests, and performance through MCP.",
+      "review_i18n": {
+        "zh-CN": "通过 MCP 检查浏览器行为、网络请求与性能。",
+        "ja": "MCPでブラウザーの動作、通信、性能を調査。"
+      },
+      "tier": "listed",
+      "language": [
+        "en"
+      ],
+      "author": {
+        "name": "ChromeDevTools",
+        "handle": "ChromeDevTools"
+      },
+      "source": {
+        "repo": "RongleCat/awesome-grok-bot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "skills"
+    },
+    {
+      "id": "exa",
+      "name": "Exa",
+      "url": "https://github.com/exa-labs/exa-grok-plugin",
+      "category": "skills",
+      "tags": [
+        "mcp",
+        "search"
+      ],
+      "review": "A web-search connector for finding and reading source pages.",
+      "review_i18n": {
+        "zh-CN": "用于寻找并读取来源网页的搜索连接器。",
+        "ja": "情報源のページを探して読むウェブ検索コネクター。"
+      },
+      "tier": "listed",
+      "language": [
+        "en"
+      ],
+      "author": {
+        "name": "exa-labs",
+        "handle": "exa-labs"
+      },
+      "source": {
+        "repo": "ZeroPointRepo/awesome-grok-bot",
+        "license": "CC-BY-4.0",
+        "attribution": "ZeroPointRepo/awesome-grok-bot contributors",
+        "changes": "Metadata normalized; reviews rewritten and translated."
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "skills"
+    },
+    {
+      "id": "figma-grok",
+      "name": "Figma Grok",
+      "url": "https://github.com/SIMPL-Automation/figma-grok",
+      "category": "skills",
+      "tags": [
+        "mcp",
+        "design"
+      ],
+      "review": "Bring design context and component information into an agent workflow.",
+      "review_i18n": {
+        "zh-CN": "把设计上下文与组件信息引入智能体工作流。",
+        "ja": "デザインの背景とコンポーネント情報を作業に取り込む。"
+      },
+      "tier": "listed",
+      "language": [
+        "en"
+      ],
+      "author": {
+        "name": "SIMPL-Automation",
+        "handle": "SIMPL-Automation"
+      },
+      "source": {
+        "repo": "RongleCat/awesome-grok-bot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "skills"
+    },
+    {
+      "id": "fintable",
+      "name": "Fintable",
+      "url": "https://github.com/ibnIrshad/fintable-grok-plugin",
+      "category": "skills",
+      "tags": [
+        "mcp",
+        "finance"
+      ],
+      "review": "Explore bank transactions, balances, and investment data through MCP.",
+      "review_i18n": {
+        "zh-CN": "通过 MCP 查看银行交易、余额与投资数据。",
+        "ja": "MCP経由で銀行取引、残高、投資データを確認。"
+      },
+      "tier": "listed",
+      "language": [
+        "en"
+      ],
+      "author": {
+        "name": "ibnIrshad",
+        "handle": "ibnIrshad"
+      },
+      "source": {
+        "repo": "RongleCat/awesome-grok-bot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "skills"
+    },
+    {
+      "id": "firecrawl",
+      "name": "Firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl-grok-plugin",
+      "category": "skills",
+      "tags": [
+        "mcp",
+        "research"
+      ],
+      "review": "Turn web pages into structured material for research workflows.",
+      "review_i18n": {
+        "zh-CN": "把网页整理为研究工作流可用的结构化资料。",
+        "ja": "ウェブページを調査に使える構造化データに。"
+      },
+      "tier": "listed",
+      "language": [
+        "en"
+      ],
+      "author": {
+        "name": "firecrawl",
+        "handle": "firecrawl"
+      },
+      "source": {
+        "repo": "ZeroPointRepo/awesome-grok-bot",
+        "license": "CC-BY-4.0",
+        "attribution": "ZeroPointRepo/awesome-grok-bot contributors",
+        "changes": "Metadata normalized; reviews rewritten and translated."
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "skills"
+    },
+    {
+      "id": "imagine-mcp",
+      "name": "imagine-mcp",
+      "url": "https://github.com/Archive228/imagine-mcp",
+      "category": "skills",
+      "tags": [
+        "video",
+        "mcp"
+      ],
+      "review": "Image, video, and speech generation with persistent output URLs and cost receipts.",
+      "review_i18n": {
+        "zh-CN": "生成图片、视频与语音，提供持久输出链接和费用凭据。",
+        "ja": "画像・動画・音声の生成に永続URLと費用の記録を添える。"
+      },
+      "tier": "listed",
+      "language": [
+        "en"
+      ],
+      "author": {
+        "name": "Archive228",
+        "handle": "Archive228"
+      },
+      "source": {
+        "repo": "ZeroPointRepo/awesome-grok-bot",
+        "license": "CC-BY-4.0",
+        "attribution": "ZeroPointRepo/awesome-grok-bot contributors",
+        "changes": "Metadata normalized; reviews rewritten and translated."
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "skills"
+    },
+    {
+      "id": "overnight",
+      "name": "overnight",
+      "url": "https://github.com/Archive228/overnight",
+      "category": "skills",
+      "tags": [
+        "video",
+        "skills"
+      ],
+      "review": "A six-bot short-video workflow with a human approval step before publishing.",
+      "review_i18n": {
+        "zh-CN": "六个机器人协作制作短视频，发布前需人工审核。",
+        "ja": "6体のボットで短編動画を作り、公開前に人が承認。"
+      },
+      "tier": "listed",
+      "language": [
+        "en"
+      ],
+      "author": {
+        "name": "Archive228",
+        "handle": "Archive228"
+      },
+      "source": {
+        "repo": "ZeroPointRepo/awesome-grok-bot",
+        "license": "CC-BY-4.0",
+        "attribution": "ZeroPointRepo/awesome-grok-bot contributors",
+        "changes": "Metadata normalized; reviews rewritten and translated."
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "skills"
+    },
+    {
+      "id": "pallyy",
+      "name": "Pallyy",
+      "url": "https://github.com/pallyysocial/pallyy-agent",
+      "category": "skills",
+      "tags": [
+        "mcp",
+        "social"
+      ],
+      "review": "A social scheduling connector for drafts and publishing workflows.",
+      "review_i18n": {
+        "zh-CN": "面向草稿与发布工作流的社交排程连接器。",
+        "ja": "下書きと公開の流れを支えるSNS予約投稿コネクター。"
+      },
+      "tier": "listed",
+      "language": [
+        "en"
+      ],
+      "author": {
+        "name": "pallyysocial",
+        "handle": "pallyysocial"
+      },
+      "source": {
+        "repo": "RongleCat/awesome-grok-bot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "skills"
+    },
+    {
+      "id": "pixeldojo",
+      "name": "PixelDojo",
+      "url": "https://github.com/blovett80/pixeldojo-plugin",
+      "category": "skills",
+      "tags": [
+        "mcp",
+        "video"
+      ],
+      "review": "Connect image, video, and ad-generation workflows to PixelDojo.",
+      "review_i18n": {
+        "zh-CN": "连接 PixelDojo 的图片、视频与广告生成流程。",
+        "ja": "画像、動画、広告の生成フローをPixelDojoに接続。"
+      },
+      "tier": "listed",
+      "language": [
+        "en"
+      ],
+      "author": {
+        "name": "blovett80",
+        "handle": "blovett80"
+      },
+      "source": {
+        "repo": "RongleCat/awesome-grok-bot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "skills"
+    },
+    {
+      "id": "superpowers",
+      "name": "Superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "category": "skills",
+      "tags": [
+        "skills",
+        "planning"
+      ],
+      "review": "Reusable skills for planning, debugging, and reviewing agent work.",
+      "review_i18n": {
+        "zh-CN": "用于规划、调试与审查智能体工作的可复用技能。",
+        "ja": "計画、デバッグ、レビューのための再利用できるスキル。"
+      },
+      "tier": "listed",
+      "language": [
+        "en"
+      ],
+      "author": {
+        "name": "obra",
+        "handle": "obra"
+      },
+      "source": {
+        "repo": "RongleCat/awesome-grok-bot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "skills"
+    },
+    {
+      "id": "tavily",
+      "name": "Tavily",
+      "url": "https://github.com/tavily-ai/tavily-grok-plugin",
+      "category": "skills",
+      "tags": [
+        "mcp",
+        "research"
+      ],
+      "review": "Connect web search and extraction to a research-oriented workflow.",
+      "review_i18n": {
+        "zh-CN": "为研究流程连接网络搜索与内容提取能力。",
+        "ja": "調査の流れにウェブ検索と抽出を接続。"
+      },
+      "tier": "listed",
+      "language": [
+        "en"
+      ],
+      "author": {
+        "name": "tavily-ai",
+        "handle": "tavily-ai"
+      },
+      "source": {
+        "repo": "ZeroPointRepo/awesome-grok-bot",
+        "license": "CC-BY-4.0",
+        "attribution": "ZeroPointRepo/awesome-grok-bot contributors",
+        "changes": "Metadata normalized; reviews rewritten and translated."
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "skills"
+    },
+    {
+      "id": "xai-plugin-marketplace",
+      "name": "xAI plugin marketplace",
+      "url": "https://github.com/xai-org/plugin-marketplace",
+      "category": "skills",
+      "tags": [
+        "plugins",
+        "directory"
+      ],
+      "review": "An upstream index for discovering plugins and their manifests.",
+      "review_i18n": {
+        "zh-CN": "探索插件及其清单文件的上游索引。",
+        "ja": "プラグインとマニフェストを探すための上流索引。"
+      },
+      "tier": "listed",
+      "language": [
+        "en"
+      ],
+      "author": {
+        "name": "xai-org",
+        "handle": "xai-org"
+      },
+      "source": {
+        "repo": "RongleCat/awesome-grok-bot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "skills"
+    },
+    {
+      "id": "content-grokbot-kit",
+      "name": "Content Grokbot kit",
+      "url": "https://github.com/xander-using-ai-to-scale/content-grokbot",
+      "category": "guides",
+      "tags": [
+        "content",
+        "workflow"
+      ],
+      "review": "A content-workflow kit to inspect when building a publishing routine.",
+      "review_i18n": {
+        "zh-CN": "搭建内容发布流程时可参考的工作流套件。",
+        "ja": "公開の習慣を組み立てる際に参考になるコンテンツ制作キット。"
+      },
+      "tier": "listed",
+      "language": [
+        "en"
+      ],
+      "author": {
+        "name": "xander-using-ai-to-scale",
+        "handle": "xander-using-ai-to-scale"
+      },
+      "source": {
+        "repo": "RongleCat/awesome-grok-bot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "guides"
+    },
+    {
+      "id": "grok-bot-blue-book",
+      "name": "Grok Bot 蓝皮书",
+      "url": "https://github.com/rockyzhuo/grok-bot-blue-book",
+      "category": "guides",
+      "tags": [
+        "setup",
+        "learning"
+      ],
+      "review": "A Chinese-language reference for exploring Grok Bot workflows.",
+      "review_i18n": {
+        "zh-CN": "探索 Grok Bot 工作流的中文参考资料。",
+        "ja": "Grok Botの作業フローを学ぶ中国語の参考資料。"
+      },
+      "tier": "listed",
+      "language": [
+        "zh-CN"
+      ],
+      "author": {
+        "name": "rockyzhuo",
+        "handle": "rockyzhuo"
+      },
+      "source": {
+        "repo": "RongleCat/awesome-grok-bot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "guides"
+    },
+    {
+      "id": "grok-bot-fleet-ops-lessons",
+      "name": "Grok Bot fleet ops lessons",
+      "url": "https://github.com/jasonpalmer1/grok-fleet-lessons",
+      "category": "guides",
+      "tags": [
+        "operations",
+        "teams"
+      ],
+      "review": "Field lessons for keeping a multi-bot setup understandable and manageable.",
+      "review_i18n": {
+        "zh-CN": "让多机器人配置易于理解与管理的实践经验。",
+        "ja": "複数ボットの構成を理解しやすく保つ運用の知見。"
+      },
+      "tier": "listed",
+      "language": [
+        "en"
+      ],
+      "author": {
+        "name": "jasonpalmer1",
+        "handle": "jasonpalmer1"
+      },
+      "source": {
+        "repo": "RongleCat/awesome-grok-bot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "guides"
+    },
+    {
+      "id": "grokbot-field-guide",
+      "name": "Grokbot Field Guide",
+      "url": "https://github.com/tal-giladi/grokbot-field-guide",
+      "category": "guides",
+      "tags": [
+        "use-cases",
+        "learning"
+      ],
+      "review": "Eight use cases to help turn a broad idea into a concrete workflow.",
+      "review_i18n": {
+        "zh-CN": "用八个使用场景把宽泛想法变为具体流程。",
+        "ja": "8つのユースケースで大まかな案を具体的な作業に。"
+      },
+      "tier": "listed",
+      "language": [
+        "en"
+      ],
+      "author": {
+        "name": "tal-giladi",
+        "handle": "tal-giladi"
+      },
+      "source": {
+        "repo": "RongleCat/awesome-grok-bot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "guides"
+    },
+    {
+      "id": "how-i-use-grok-bot",
+      "name": "How I Use Grok Bot",
+      "url": "https://github.com/DevonshireVC/how-i-use-grok-bot",
+      "category": "guides",
+      "tags": [
+        "use-cases",
+        "workflow"
+      ],
+      "review": "A personal walkthrough to compare with your own working habits.",
+      "review_i18n": {
+        "zh-CN": "可与你的工作习惯对照的个人实践演示。",
+        "ja": "自分の働き方と比較できる個人の活用ウォークスルー。"
+      },
+      "tier": "listed",
+      "language": [
+        "en"
+      ],
+      "author": {
+        "name": "DevonshireVC",
+        "handle": "DevonshireVC"
+      },
+      "source": {
+        "repo": "RongleCat/awesome-grok-bot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "guides"
+    },
+    {
+      "id": "technocore-grok-bot-ja",
+      "name": "Technocore Grok Bot 日本語ガイド",
+      "url": "https://github.com/hariou/technocore-grokbot-ja",
+      "category": "guides",
+      "tags": [
+        "setup",
+        "learning"
+      ],
+      "review": "A Japanese-language guide for getting oriented with Grok Bot.",
+      "review_i18n": {
+        "zh-CN": "帮助熟悉 Grok Bot 的日语指南。",
+        "ja": "Grok Botの使い方を把握するための日本語ガイド。"
+      },
+      "tier": "listed",
+      "language": [
+        "ja"
+      ],
+      "author": {
+        "name": "hariou",
+        "handle": "hariou"
+      },
+      "source": {
+        "repo": "RongleCat/awesome-grok-bot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "guides"
+    },
+    {
+      "id": "verification-loop",
+      "name": "Verification Loop",
+      "url": "https://github.com/PandaHK-Hub/verification-loop",
+      "category": "guides",
+      "tags": [
+        "verification",
+        "teams"
+      ],
+      "review": "A worker-and-auditor loop for reviewing a team's output.",
+      "review_i18n": {
+        "zh-CN": "用执行者与审核者循环检查团队产出。",
+        "ja": "作業担当と監査担当のループでチームの成果を確認。"
+      },
+      "tier": "listed",
+      "language": [
+        "en"
+      ],
+      "author": {
+        "name": "PandaHK-Hub",
+        "handle": "PandaHK-Hub"
+      },
+      "source": {
+        "repo": "RongleCat/awesome-grok-bot",
+        "license": "CC0-1.0"
+      },
+      "added": "2026-10-21",
+      "last_checked": "2026-10-21",
+      "status": "active",
+      "kind": "guides"
+    }
+  ],
+  "picks": []
+}

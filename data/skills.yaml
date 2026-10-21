@@ -1,0 +1,286 @@
+- id: chrome-devtools-mcp
+  name: Chrome DevTools MCP
+  url: https://github.com/ChromeDevTools/chrome-devtools-mcp
+  category: skills
+  tags:
+  - mcp
+  - debugging
+  review: Inspect browser behavior, network requests, and performance through MCP.
+  review_i18n:
+    zh-CN: 通过 MCP 检查浏览器行为、网络请求与性能。
+    ja: MCPでブラウザーの動作、通信、性能を調査。
+  tier: listed
+  language:
+  - en
+  author:
+    name: ChromeDevTools
+    handle: ChromeDevTools
+  source:
+    repo: RongleCat/awesome-grok-bot
+    license: CC0-1.0
+  added: '2026-10-21'
+  last_checked: '2026-10-21'
+  status: active
+- id: figma-grok
+  name: Figma Grok
+  url: https://github.com/SIMPL-Automation/figma-grok
+  category: skills
+  tags:
+  - mcp
+  - design
+  review: Bring design context and component information into an agent workflow.
+  review_i18n:
+    zh-CN: 把设计上下文与组件信息引入智能体工作流。
+    ja: デザインの背景とコンポーネント情報を作業に取り込む。
+  tier: listed
+  language:
+  - en
+  author:
+    name: SIMPL-Automation
+    handle: SIMPL-Automation
+  source:
+    repo: RongleCat/awesome-grok-bot
+    license: CC0-1.0
+  added: '2026-10-21'
+  last_checked: '2026-10-21'
+  status: active
+- id: superpowers
+  name: Superpowers
+  url: https://github.com/obra/superpowers
+  category: skills
+  tags:
+  - skills
+  - planning
+  review: Reusable skills for planning, debugging, and reviewing agent work.
+  review_i18n:
+    zh-CN: 用于规划、调试与审查智能体工作的可复用技能。
+    ja: 計画、デバッグ、レビューのための再利用できるスキル。
+  tier: listed
+  language:
+  - en
+  author:
+    name: obra
+    handle: obra
+  source:
+    repo: RongleCat/awesome-grok-bot
+    license: CC0-1.0
+  added: '2026-10-21'
+  last_checked: '2026-10-21'
+  status: active
+- id: firecrawl
+  name: Firecrawl
+  url: https://github.com/firecrawl/firecrawl-grok-plugin
+  category: skills
+  tags:
+  - mcp
+  - research
+  review: Turn web pages into structured material for research workflows.
+  review_i18n:
+    zh-CN: 把网页整理为研究工作流可用的结构化资料。
+    ja: ウェブページを調査に使える構造化データに。
+  tier: listed
+  language:
+  - en
+  author:
+    name: firecrawl
+    handle: firecrawl
+  source:
+    repo: ZeroPointRepo/awesome-grok-bot
+    license: CC-BY-4.0
+    attribution: ZeroPointRepo/awesome-grok-bot contributors
+    changes: Metadata normalized; reviews rewritten and translated.
+  added: '2026-10-21'
+  last_checked: '2026-10-21'
+  status: active
+- id: tavily
+  name: Tavily
+  url: https://github.com/tavily-ai/tavily-grok-plugin
+  category: skills
+  tags:
+  - mcp
+  - research
+  review: Connect web search and extraction to a research-oriented workflow.
+  review_i18n:
+    zh-CN: 为研究流程连接网络搜索与内容提取能力。
+    ja: 調査の流れにウェブ検索と抽出を接続。
+  tier: listed
+  language:
+  - en
+  author:
+    name: tavily-ai
+    handle: tavily-ai
+  source:
+    repo: ZeroPointRepo/awesome-grok-bot
+    license: CC-BY-4.0
+    attribution: ZeroPointRepo/awesome-grok-bot contributors
+    changes: Metadata normalized; reviews rewritten and translated.
+  added: '2026-10-21'
+  last_checked: '2026-10-21'
+  status: active
+- id: pallyy
+  name: Pallyy
+  url: https://github.com/pallyysocial/pallyy-agent
+  category: skills
+  tags:
+  - mcp
+  - social
+  review: A social scheduling connector for drafts and publishing workflows.
+  review_i18n:
+    zh-CN: 面向草稿与发布工作流的社交排程连接器。
+    ja: 下書きと公開の流れを支えるSNS予約投稿コネクター。
+  tier: listed
+  language:
+  - en
+  author:
+    name: pallyysocial
+    handle: pallyysocial
+  source:
+    repo: RongleCat/awesome-grok-bot
+    license: CC0-1.0
+  added: '2026-10-21'
+  last_checked: '2026-10-21'
+  status: active
+- id: fintable
+  name: Fintable
+  url: https://github.com/ibnIrshad/fintable-grok-plugin
+  category: skills
+  tags:
+  - mcp
+  - finance
+  review: Explore bank transactions, balances, and investment data through MCP.
+  review_i18n:
+    zh-CN: 通过 MCP 查看银行交易、余额与投资数据。
+    ja: MCP経由で銀行取引、残高、投資データを確認。
+  tier: listed
+  language:
+  - en
+  author:
+    name: ibnIrshad
+    handle: ibnIrshad
+  source:
+    repo: RongleCat/awesome-grok-bot
+    license: CC0-1.0
+  added: '2026-10-21'
+  last_checked: '2026-10-21'
+  status: active
+- id: pixeldojo
+  name: PixelDojo
+  url: https://github.com/blovett80/pixeldojo-plugin
+  category: skills
+  tags:
+  - mcp
+  - video
+  review: Connect image, video, and ad-generation workflows to PixelDojo.
+  review_i18n:
+    zh-CN: 连接 PixelDojo 的图片、视频与广告生成流程。
+    ja: 画像、動画、広告の生成フローをPixelDojoに接続。
+  tier: listed
+  language:
+  - en
+  author:
+    name: blovett80
+    handle: blovett80
+  source:
+    repo: RongleCat/awesome-grok-bot
+    license: CC0-1.0
+  added: '2026-10-21'
+  last_checked: '2026-10-21'
+  status: active
+- id: exa
+  name: Exa
+  url: https://github.com/exa-labs/exa-grok-plugin
+  category: skills
+  tags:
+  - mcp
+  - search
+  review: A web-search connector for finding and reading source pages.
+  review_i18n:
+    zh-CN: 用于寻找并读取来源网页的搜索连接器。
+    ja: 情報源のページを探して読むウェブ検索コネクター。
+  tier: listed
+  language:
+  - en
+  author:
+    name: exa-labs
+    handle: exa-labs
+  source:
+    repo: ZeroPointRepo/awesome-grok-bot
+    license: CC-BY-4.0
+    attribution: ZeroPointRepo/awesome-grok-bot contributors
+    changes: Metadata normalized; reviews rewritten and translated.
+  added: '2026-10-21'
+  last_checked: '2026-10-21'
+  status: active
+- id: xai-plugin-marketplace
+  name: xAI plugin marketplace
+  url: https://github.com/xai-org/plugin-marketplace
+  category: skills
+  tags:
+  - plugins
+  - directory
+  review: An upstream index for discovering plugins and their manifests.
+  review_i18n:
+    zh-CN: 探索插件及其清单文件的上游索引。
+    ja: プラグインとマニフェストを探すための上流索引。
+  tier: listed
+  language:
+  - en
+  author:
+    name: xai-org
+    handle: xai-org
+  source:
+    repo: RongleCat/awesome-grok-bot
+    license: CC0-1.0
+  added: '2026-10-21'
+  last_checked: '2026-10-21'
+  status: active
+- id: imagine-mcp
+  name: imagine-mcp
+  url: https://github.com/Archive228/imagine-mcp
+  category: skills
+  tags:
+  - video
+  - mcp
+  review: Image, video, and speech generation with persistent output URLs and cost receipts.
+  review_i18n:
+    zh-CN: 生成图片、视频与语音，提供持久输出链接和费用凭据。
+    ja: 画像・動画・音声の生成に永続URLと費用の記録を添える。
+  tier: listed
+  language:
+  - en
+  author:
+    name: Archive228
+    handle: Archive228
+  source:
+    repo: ZeroPointRepo/awesome-grok-bot
+    license: CC-BY-4.0
+    attribution: ZeroPointRepo/awesome-grok-bot contributors
+    changes: Metadata normalized; reviews rewritten and translated.
+  added: '2026-10-21'
+  last_checked: '2026-10-21'
+  status: active
+- id: overnight
+  name: overnight
+  url: https://github.com/Archive228/overnight
+  category: skills
+  tags:
+  - video
+  - skills
+  review: A six-bot short-video workflow with a human approval step before publishing.
+  review_i18n:
+    zh-CN: 六个机器人协作制作短视频，发布前需人工审核。
+    ja: 6体のボットで短編動画を作り、公開前に人が承認。
+  tier: listed
+  language:
+  - en
+  author:
+    name: Archive228
+    handle: Archive228
+  source:
+    repo: ZeroPointRepo/awesome-grok-bot
+    license: CC-BY-4.0
+    attribution: ZeroPointRepo/awesome-grok-bot contributors
+    changes: Metadata normalized; reviews rewritten and translated.
+  added: '2026-10-21'
+  last_checked: '2026-10-21'
+  status: active

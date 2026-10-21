@@ -1,0 +1,85 @@
+language_name: 日本語
+eyebrow: コミュニティのフィールドガイド
+hero_title: '良いボットから、
+
+  広がる可能性。'
+hero_text: Grok Bot、スキル、ガイドを丁寧に集めました。大切な仕事の出発点を見つけましょう。
+explore: コレクションを見る
+submit: リソースを提案
+directory: ディレクトリ
+weekly: 今週のピックアップ
+about: 選定方針
+github: GitHubで見る
+search: ボット、スキル、作者、アイデアを検索…
+all: すべて
+all_categories: すべての分類
+all_tiers: すべての評価
+all_tags: すべてのタグ
+sort: 並び順
+sort_name: 名前 A–Z
+sort_new: 追加が新しい順
+category: 分類
+tier: レビュー段階
+tag: タグ
+results: '{count} 件のリソース'
+collection: コレクション
+collection_text: 小さなツール。丁寧なワークフロー。ここから始めよう。
+reset: 絞り込みを解除
+no_results: 一致する結果がありません
+no_results_text: 別の言葉で検索するか、絞り込みを解除してください。
+listed: 掲載済み
+tested: テスト済み
+featured: 厳選
+listed_note: リンク確認済み。ご自身で評価できます。
+trust_title: 丁寧に選び、正直に伝える。
+trust_text: すべての項目に出典、ライセンス、リンク確認日を記載。「掲載済み」はURLが応答したことを示し、動作テストの完了を意味しません。
+picks_empty: 最初の特集を準備しています。
+picks_text: 管理者がワークフローをレビューした後、ここに掲載します。それまではコレクションをお楽しみください。
+picks_label: 毎週、役立つ発見を少しずつ
+open: リソースを開く
+by: 作者
+source: 出典
+checked: リンク確認
+resources: リソース
+languages: 言語
+open_data: オープンデータ
+footer: 好奇心のために。コミュニティとともに。
+independent: xAIとは提携していない独立したコミュニティプロジェクトです。
+loading: コレクションを読み込み中…
+load_error: 読み込めませんでした。再読み込みするかGitHubのREADMEをご覧ください。
+readme_intro: 実在するGrok Bot共有、スキル、MCPコネクター、実用ガイドを集めたリスト。
+browse: サイトを見る
+contribute: 貢献する
+policy: レビュー方針
+policy_text: 初期項目はすべて掲載済みで、URLがHTTP <400を返しました。動作テスト、安全性評価、性能の保証ではありません。テスト済みと厳選は、記録された管理者レビュー後に使います。
+quickstart: ローカル開発
+data_title: データについて
+data_text: data/*.yamlを編集し、scripts/build.pyを実行します。同じキー構成のi18n/*.yamlを追加すると新しい言語に対応。項目の翻訳がない場合は英語を表示します。
+badge_title: 厳選された作者向け
+badge_text: 管理者が厳選レビューを記録した後に授与できます。初期項目には授与されていません。
+license_title: ライセンスと謝辞
+license_text: コードはMIT。メタデータは項目ごとにCC0-1.0またはCC-BY-4.0です。CC-BYの再利用時は出典と変更通知を保持してください。リンク先には独自のライセンスがあります。
+author: 作者
+review: ひとことレビュー
+license: メタデータのライセンス
+status: 状態
+unknown_language: 言語未確認
+download: JSONをダウンロード
+categories:
+  finance: 金融・投資
+  research: 調査・インサイト
+  content: コンテンツ・SNS
+  video: 動画・ストーリー
+  skills: スキル・MCP
+  guides: ガイド・実践集
+kinds:
+  bots: ボット
+  skills: スキル・MCP
+  guides: ガイド
+skip: コレクションへ移動
+home: awesome Grok Bot ホーム
+navigation: メインナビゲーション
+resource_type: リソースの種類
+language_label: 言語
+suggest_pick: 今週の候補を提案
+art_caption: 可能性を、もう少し。

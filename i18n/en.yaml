@@ -1,0 +1,89 @@
+language_name: English
+eyebrow: THE COMMUNITY FIELD GUIDE
+hero_title: 'Good bots.
+
+  Great possibilities.'
+hero_text: A considered collection of Grok Bots, skills, and guides. Find a starting point for the work you care about.
+explore: Explore the collection
+submit: Submit a resource
+directory: Directory
+weekly: Weekly picks
+about: Our approach
+github: View on GitHub
+search: Search bots, skills, authors, or ideas…
+all: All resources
+all_categories: All categories
+all_tiers: All tiers
+all_tags: All tags
+sort: Sort by
+sort_name: Name A–Z
+sort_new: Recently added
+category: Category
+tier: Review tier
+tag: Tag
+results: '{count} resources'
+collection: The collection
+collection_text: Small tools. Thoughtful workflows. A place to start.
+reset: Clear filters
+no_results: No matches yet
+no_results_text: Try another search or clear a filter.
+listed: Listed
+tested: Tested
+featured: Featured
+listed_note: Link checked. Ready for your own evaluation.
+trust_title: Curated with care. Labeled honestly.
+trust_text: Every entry has a source, a license, and a link-check date. Listed means the URL responded; it does not mean the workflow
+  has been tested.
+picks_empty: The first edition is still taking shape.
+picks_text: Weekly picks will appear here after a maintainer reviews the workflows. Explore the collection in the meantime.
+picks_label: A LITTLE SIGNAL, EVERY WEEK
+open: Open resource
+by: by
+source: Source
+checked: Link checked
+resources: Resources
+languages: Languages
+open_data: Open data
+footer: Built for the curious. Maintained by the community.
+independent: An independent community project. Not affiliated with xAI.
+loading: Loading the collection…
+load_error: The catalog could not load. Refresh the page or browse the GitHub README.
+readme_intro: A curated collection of real Grok Bot shares, skills, MCP connectors, and practical guides.
+browse: Browse the site
+contribute: Contribute
+policy: Review policy
+policy_text: 'All seed entries are listed: their URLs returned HTTP <400. No workflow testing, safety review, or performance endorsement
+  is implied. Tested and featured tiers are reserved for documented maintainer reviews.'
+quickstart: Local development
+data_title: The data
+data_text: Edit data/*.yaml; generated files are rebuilt by scripts/build.py. Add an i18n/*.yaml file with the same keys to introduce
+  a language; missing entry translations fall back to English.
+badge_title: For featured authors
+badge_text: Maintainers may award this badge after a documented featured review. It is not awarded to any seed entry.
+license_title: Licensing & credits
+license_text: 'Code is MIT. Catalog metadata is licensed per row: CC0-1.0 or CC-BY-4.0. Preserve source attribution and change notices
+  when reusing CC-BY rows. Linked resources have their own licenses.'
+author: Author
+review: Editorial note
+license: Metadata license
+status: Status
+unknown_language: Language unspecified
+download: Download JSON
+categories:
+  finance: Finance & investing
+  research: Research & insights
+  content: Content & social
+  video: Video & storytelling
+  skills: Skills & MCP
+  guides: Guides & playbooks
+kinds:
+  bots: Bots
+  skills: Skills & MCP
+  guides: Guides
+skip: Skip to collection
+home: awesome Grok Bot home
+navigation: Main navigation
+resource_type: Resource type
+language_label: Language
+suggest_pick: Suggest a weekly pick
+art_caption: A little more possibility.

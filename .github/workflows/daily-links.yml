@@ -1,0 +1,40 @@
+name: Daily link maintenance
+on:
+  schedule:
+    - cron: '23 5 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: catalog-maintenance
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Check links and apply only a healthy sweep
+        # Exit 2 stops the job before rebuild/commit. No source file is written on a trip.
+        run: python scripts/check_links.py --write
+      - run: python scripts/validate.py
+      - run: python scripts/build.py
+      - run: python -m unittest discover -s tests
+      - name: Commit updated catalog
+        run: |
+          git add data README*.md llms.txt dist site
+          if git diff --cached --quiet; then
+            echo 'No catalog changes.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore: refresh catalog link health'
+          git push

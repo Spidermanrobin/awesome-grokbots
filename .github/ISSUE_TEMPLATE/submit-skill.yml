@@ -1,0 +1,52 @@
+name: Submit a skill or MCP connector
+description: Suggest a skill, plugin, MCP connector, or guide.
+title: 'resource: '
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Resource type
+      options: [Skill, Plugin, MCP connector, Guide or use case]
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Resource name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Canonical HTTPS URL
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: Author or repository owner, and handle
+    validations:
+      required: true
+  - type: textarea
+    id: review
+    attributes:
+      label: One-line review, tags, and content languages
+      description: Explain the concrete job it does. Add zh-CN and ja translations if available.
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Metadata source, license, and attribution
+      description: The catalog row's license is separate from the linked software's license.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Submission checks
+      options:
+        - label: I opened the URL and checked for duplicates.
+          required: true
+        - label: The author and provenance are copied from a real source.
+          required: true

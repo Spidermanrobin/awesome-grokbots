@@ -1,0 +1,57 @@
+name: Submit a bot
+description: Suggest a real, reachable x.ai/bot share.
+title: 'bot: '
+body:
+  - type: markdown
+    attributes:
+      value: 'We start every submission at listed. A reachable URL is not a workflow test. See [CONTRIBUTING](https://github.com/OWNER/awesome-grok-bot/blob/main/CONTRIBUTING.md).'
+  - type: input
+    id: name
+    attributes:
+      label: Bot name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Public x.ai/bot share URL
+      placeholder: 'https://x.ai/bot/<share-id>'
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: Author name and handle
+      description: Copy what the source actually says; do not guess.
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Primary category
+      options: [finance, research, content, video]
+    validations:
+      required: true
+  - type: textarea
+    id: review
+    attributes:
+      label: One-line review and tags
+      description: English required. Chinese and Japanese translations welcome; a maintainer can help.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source repository and metadata license
+      description: Include attribution and changes for CC-BY-4.0 material.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Submission checks
+      options:
+        - label: I opened the share URL and it currently loads.
+          required: true
+        - label: I checked for duplicates and provided the original author and source.
+          required: true

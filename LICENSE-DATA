@@ -1,0 +1,31 @@
+Catalog metadata licensing
+==========================
+
+Code, schemas, workflows, and site assets: MIT (LICENSE).
+Catalog rows and their rendered copies: per-row source.license, not blanket MIT.
+
+CC0-1.0
+  Rows derived from the CC0 catalogs of kydlikebtc (only rows individually
+  marked CC0), cs68614-hash, majiayu000, and RongleCat are reused under CC0 1.0.
+  Original editorial reviews, translations, and metadata additions by this
+  project are dedicated to CC0 1.0 to the extent possible under law.
+  https://creativecommons.org/publicdomain/zero/1.0/
+  Legal text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+CC-BY-4.0
+  Rows derived from ZeroPointRepo/awesome-grok-bot retain CC BY 4.0.
+  Attribution: ZeroPointRepo/awesome-grok-bot contributors.
+  Source: https://github.com/ZeroPointRepo/awesome-grok-bot
+  Changes: metadata normalized; reviews rewritten and translated.
+  https://creativecommons.org/licenses/by/4.0/
+  Legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+  Reuse must preserve source.repo, source.license, source.attribution, and
+  source.changes (or equivalent visible attribution), link the license, and
+  identify further changes. Do not suggest that the source endorses you.
+  The same credit is carried into generated READMEs, JSON, llms.txt, and the
+  site's per-entry Source details. CREDITS.md records source revisions.
+
+The license describes our catalog metadata, not any bot, skill, plugin, prompt,
+model, image, or linked repository. Those remain subject to their own licenses.
+Names, marks, and author credits do not imply endorsement or affiliation.
