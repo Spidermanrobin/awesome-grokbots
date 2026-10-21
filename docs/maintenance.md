@@ -30,7 +30,6 @@ stale weekly links. Reinstatement requires a maintainer to move the row back to 
 appropriate source file after a new successful check. The checker does not import
 new entries, rewrite authors, promote tiers, or automatically revive retired entries.
 
-GitHub deployment requires replacing the `OWNER` placeholders, selecting the real
 default branch, and enabling Actions-based Pages. No deploy credentials, API keys,
 analytics, external fonts, or third-party runtime scripts are needed. Browser testing
 is optional tooling; the build itself needs only the three packages in requirements.txt.

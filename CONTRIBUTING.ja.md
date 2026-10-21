@@ -35,5 +35,4 @@ python -m http.server 8000 --directory site
 遮断未満でもエラー項目の確認日は保持されます。`--dry-run` は `--report` があっても書き込みません。
 
 サイトを変更する場合は `web/` を編集。`site/`、`dist/`、README、llms.txtは生成物です。同じキー構成の `i18n/<locale>.yaml` 一つでUI言語を追加できます。
-項目の翻訳がなければ英語を表示します。公開前にOWNERを置換し、GitHub Actions Pages、既定ブランチ、日次ワークフローの書き込み権限を設定してください。
 任意のPlaywrightプレビューと公開設定は[英語版](CONTRIBUTING.md)を参照。[行動規範](CODE_OF_CONDUCT.md)を守ってください。

@@ -35,5 +35,4 @@ python -m http.server 8000 --directory site
 未熔断时仍有错误的条目保留原检查日期。`--dry-run` 即使带 `--report` 也不会写文件。
 
 网站源文件在 `web/`；`site/`、`dist/`、README 与 llms.txt 都由脚本生成。新增语言只需添加键结构相同的 `i18n/<locale>.yaml`。
-缺失条目翻译回退英语。部署前替换 OWNER 占位符，启用 GitHub Actions Pages，确认默认分支及每日工作流写入权限。
 可选 Playwright 预览与部署细节见[英文指南](CONTRIBUTING.md)。请遵守[行为准则](CODE_OF_CONDUCT.md)。
