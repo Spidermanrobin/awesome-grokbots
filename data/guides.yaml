@@ -19,7 +19,7 @@
     repo: RongleCat/awesome-grok-bot
     license: CC0-1.0
   added: '2026-10-21'
-  last_checked: '2026-10-23'
+  last_checked: '2026-10-24'
   status: active
 - id: grok-bot-blue-book
   name: Grok Bot 蓝皮书
@@ -42,7 +42,7 @@
     repo: RongleCat/awesome-grok-bot
     license: CC0-1.0
   added: '2026-10-21'
-  last_checked: '2026-10-23'
+  last_checked: '2026-10-24'
   status: active
 - id: technocore-grok-bot-ja
   name: Technocore Grok Bot 日本語ガイド
@@ -65,7 +65,7 @@
     repo: RongleCat/awesome-grok-bot
     license: CC0-1.0
   added: '2026-10-21'
-  last_checked: '2026-10-23'
+  last_checked: '2026-10-24'
   status: active
 - id: grok-bot-fleet-ops-lessons
   name: Grok Bot fleet ops lessons
@@ -88,7 +88,7 @@
     repo: RongleCat/awesome-grok-bot
     license: CC0-1.0
   added: '2026-10-21'
-  last_checked: '2026-10-23'
+  last_checked: '2026-10-24'
   status: active
 - id: how-i-use-grok-bot
   name: How I Use Grok Bot
@@ -111,7 +111,7 @@
     repo: RongleCat/awesome-grok-bot
     license: CC0-1.0
   added: '2026-10-21'
-  last_checked: '2026-10-23'
+  last_checked: '2026-10-24'
   status: active
 - id: verification-loop
   name: Verification Loop
@@ -134,7 +134,7 @@
     repo: RongleCat/awesome-grok-bot
     license: CC0-1.0
   added: '2026-10-21'
-  last_checked: '2026-10-23'
+  last_checked: '2026-10-24'
   status: active
 - id: content-grokbot-kit
   name: Content Grokbot kit
@@ -157,5 +157,5 @@
     repo: RongleCat/awesome-grok-bot
     license: CC0-1.0
   added: '2026-10-21'
-  last_checked: '2026-10-23'
+  last_checked: '2026-10-24'
   status: active
