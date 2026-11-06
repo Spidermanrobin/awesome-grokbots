@@ -7,7 +7,7 @@ A curated collection of real Grok Bot shares, skills, MCP connectors, and practi
 
 [Browse the site](https://spidermanrobin.github.io/awesome-grokbots/) · [Contribute](CONTRIBUTING.md) · [JSON](dist/catalog.json) · [llms.txt](llms.txt)
 
-41 Bots | 12 Skills & MCP | 7 Guides
+41 Bots | 13 Skills & MCP | 7 Guides
 
 ## Review policy
 
@@ -85,6 +85,7 @@ Weekly picks will appear here after a maintainer reviews the workflows. Explore 
 | Resources | Editorial note | Author | Review tier | Source / Metadata license | Link checked |
 | --- | --- | --- | --- | --- | --- |
 | [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Inspect browser behavior, network requests, and performance through MCP. | ChromeDevTools | Listed | [RongleCat/awesome-grok-bot](https://github.com/RongleCat/awesome-grok-bot) · [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 2026-11-06 |
+| [DC Hub](https://dchub.cloud/connect) | Live data-center site-selection layer; DCPI scores daily grid-power availability across 300+ markets via MCP. | DC Hub | Listed | [azmartone67/dchub-mcp-server](https://github.com/azmartone67/dchub-mcp-server) · [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 2026-11-06 |
 | [Exa](https://github.com/exa-labs/exa-grok-plugin) | A web-search connector for finding and reading source pages. | exa-labs | Listed | [ZeroPointRepo/awesome-grok-bot](https://github.com/ZeroPointRepo/awesome-grok-bot) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)<br>ZeroPointRepo/awesome-grok-bot contributors. Metadata normalized; reviews rewritten and translated. | 2026-11-06 |
 | [Figma Grok](https://github.com/SIMPL-Automation/figma-grok) | Bring design context and component information into an agent workflow. | SIMPL-Automation | Listed | [RongleCat/awesome-grok-bot](https://github.com/RongleCat/awesome-grok-bot) · [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 2026-11-06 |
 | [Fintable](https://github.com/ibnIrshad/fintable-grok-plugin) | Explore bank transactions, balances, and investment data through MCP. | ibnIrshad | Listed | [RongleCat/awesome-grok-bot](https://github.com/RongleCat/awesome-grok-bot) · [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 2026-11-06 |

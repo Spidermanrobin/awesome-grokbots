@@ -7,7 +7,7 @@
 
 [浏览网站](https://spidermanrobin.github.io/awesome-grokbots/) · [参与贡献](CONTRIBUTING.md) · [JSON](dist/catalog.json) · [llms.txt](llms.txt)
 
-41 机器人 | 12 技能与 MCP | 7 指南
+41 机器人 | 13 技能与 MCP | 7 指南
 
 ## 评审原则
 
@@ -85,6 +85,7 @@
 | 资源 | 精选短评 | 作者 | 评审等级 | 来源 / 元数据许可 | 链接检查 |
 | --- | --- | --- | --- | --- | --- |
 | [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 通过 MCP 检查浏览器行为、网络请求与性能。 | ChromeDevTools | 已收录 | [RongleCat/awesome-grok-bot](https://github.com/RongleCat/awesome-grok-bot) · [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 2026-11-06 |
+| [DC Hub](https://dchub.cloud/connect) | 数据中心选址实时数据层；DCPI 每日评估 300+ 市场的电网电力可用性，通过 MCP 接入。 | DC Hub | 已收录 | [azmartone67/dchub-mcp-server](https://github.com/azmartone67/dchub-mcp-server) · [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 2026-11-06 |
 | [Exa](https://github.com/exa-labs/exa-grok-plugin) | 用于寻找并读取来源网页的搜索连接器。 | exa-labs | 已收录 | [ZeroPointRepo/awesome-grok-bot](https://github.com/ZeroPointRepo/awesome-grok-bot) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)<br>ZeroPointRepo/awesome-grok-bot contributors. Metadata normalized; reviews rewritten and translated. | 2026-11-06 |
 | [Figma Grok](https://github.com/SIMPL-Automation/figma-grok) | 把设计上下文与组件信息引入智能体工作流。 | SIMPL-Automation | 已收录 | [RongleCat/awesome-grok-bot](https://github.com/RongleCat/awesome-grok-bot) · [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 2026-11-06 |
 | [Fintable](https://github.com/ibnIrshad/fintable-grok-plugin) | 通过 MCP 查看银行交易、余额与投资数据。 | ibnIrshad | 已收录 | [RongleCat/awesome-grok-bot](https://github.com/RongleCat/awesome-grok-bot) · [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 2026-11-06 |

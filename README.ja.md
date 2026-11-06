@@ -7,7 +7,7 @@
 
 [サイトを見る](https://spidermanrobin.github.io/awesome-grokbots/) · [貢献する](CONTRIBUTING.md) · [JSON](dist/catalog.json) · [llms.txt](llms.txt)
 
-41 ボット | 12 スキル・MCP | 7 ガイド
+41 ボット | 13 スキル・MCP | 7 ガイド
 
 ## レビュー方針
 
@@ -85,6 +85,7 @@
 | リソース | ひとことレビュー | 作者 | レビュー段階 | 出典 / メタデータのライセンス | リンク確認 |
 | --- | --- | --- | --- | --- | --- |
 | [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) | MCPでブラウザーの動作、通信、性能を調査。 | ChromeDevTools | 掲載済み | [RongleCat/awesome-grok-bot](https://github.com/RongleCat/awesome-grok-bot) · [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 2026-11-06 |
+| [DC Hub](https://dchub.cloud/connect) | データセンター立地のライブデータ層。DCPIは300以上の市場の電力確保しやすさを日次スコア化し、MCPで接続。 | DC Hub | 掲載済み | [azmartone67/dchub-mcp-server](https://github.com/azmartone67/dchub-mcp-server) · [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 2026-11-06 |
 | [Exa](https://github.com/exa-labs/exa-grok-plugin) | 情報源のページを探して読むウェブ検索コネクター。 | exa-labs | 掲載済み | [ZeroPointRepo/awesome-grok-bot](https://github.com/ZeroPointRepo/awesome-grok-bot) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)<br>ZeroPointRepo/awesome-grok-bot contributors. Metadata normalized; reviews rewritten and translated. | 2026-11-06 |
 | [Figma Grok](https://github.com/SIMPL-Automation/figma-grok) | デザインの背景とコンポーネント情報を作業に取り込む。 | SIMPL-Automation | 掲載済み | [RongleCat/awesome-grok-bot](https://github.com/RongleCat/awesome-grok-bot) · [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 2026-11-06 |
 | [Fintable](https://github.com/ibnIrshad/fintable-grok-plugin) | MCP経由で銀行取引、残高、投資データを確認。 | ibnIrshad | 掲載済み | [RongleCat/awesome-grok-bot](https://github.com/RongleCat/awesome-grok-bot) · [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 2026-11-06 |

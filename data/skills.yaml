@@ -284,3 +284,29 @@
   added: '2026-10-21'
   last_checked: '2026-11-06'
   status: active
+- id: dc-hub-mcp
+  name: DC Hub
+  url: https://dchub.cloud/connect
+  category: skills
+  tags:
+  - mcp
+  - data-center
+  - energy
+  - power-grid
+  - site-selection
+  review: Live data-center site-selection layer; DCPI scores daily grid-power availability across 300+ markets via MCP.
+  review_i18n:
+    zh-CN: 数据中心选址实时数据层；DCPI 每日评估 300+ 市场的电网电力可用性，通过 MCP 接入。
+    ja: データセンター立地のライブデータ層。DCPIは300以上の市場の電力確保しやすさを日次スコア化し、MCPで接続。
+  tier: listed
+  language:
+  - en
+  author:
+    name: DC Hub
+    handle: azmartone67
+  source:
+    repo: azmartone67/dchub-mcp-server
+    license: CC0-1.0
+  added: '2026-11-06'
+  last_checked: '2026-11-06'
+  status: active
