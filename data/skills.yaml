@@ -19,7 +19,7 @@
     repo: RongleCat/awesome-grok-bot
     license: CC0-1.0
   added: '2026-10-21'
-  last_checked: '2026-11-06'
+  last_checked: '2026-11-07'
   status: active
 - id: figma-grok
   name: Figma Grok
@@ -42,7 +42,7 @@
     repo: RongleCat/awesome-grok-bot
     license: CC0-1.0
   added: '2026-10-21'
-  last_checked: '2026-11-06'
+  last_checked: '2026-11-07'
   status: active
 - id: superpowers
   name: Superpowers
@@ -65,7 +65,7 @@
     repo: RongleCat/awesome-grok-bot
     license: CC0-1.0
   added: '2026-10-21'
-  last_checked: '2026-11-06'
+  last_checked: '2026-11-07'
   status: active
 - id: firecrawl
   name: Firecrawl
@@ -90,7 +90,7 @@
     attribution: ZeroPointRepo/awesome-grok-bot contributors
     changes: Metadata normalized; reviews rewritten and translated.
   added: '2026-10-21'
-  last_checked: '2026-11-06'
+  last_checked: '2026-11-07'
   status: active
 - id: tavily
   name: Tavily
@@ -115,7 +115,7 @@
     attribution: ZeroPointRepo/awesome-grok-bot contributors
     changes: Metadata normalized; reviews rewritten and translated.
   added: '2026-10-21'
-  last_checked: '2026-11-06'
+  last_checked: '2026-11-07'
   status: active
 - id: pallyy
   name: Pallyy
@@ -138,7 +138,7 @@
     repo: RongleCat/awesome-grok-bot
     license: CC0-1.0
   added: '2026-10-21'
-  last_checked: '2026-11-06'
+  last_checked: '2026-11-07'
   status: active
 - id: fintable
   name: Fintable
@@ -161,7 +161,7 @@
     repo: RongleCat/awesome-grok-bot
     license: CC0-1.0
   added: '2026-10-21'
-  last_checked: '2026-11-06'
+  last_checked: '2026-11-07'
   status: active
 - id: pixeldojo
   name: PixelDojo
@@ -184,7 +184,7 @@
     repo: RongleCat/awesome-grok-bot
     license: CC0-1.0
   added: '2026-10-21'
-  last_checked: '2026-11-06'
+  last_checked: '2026-11-07'
   status: active
 - id: exa
   name: Exa
@@ -209,7 +209,7 @@
     attribution: ZeroPointRepo/awesome-grok-bot contributors
     changes: Metadata normalized; reviews rewritten and translated.
   added: '2026-10-21'
-  last_checked: '2026-11-06'
+  last_checked: '2026-11-07'
   status: active
 - id: xai-plugin-marketplace
   name: xAI plugin marketplace
@@ -232,7 +232,7 @@
     repo: RongleCat/awesome-grok-bot
     license: CC0-1.0
   added: '2026-10-21'
-  last_checked: '2026-11-06'
+  last_checked: '2026-11-07'
   status: active
 - id: imagine-mcp
   name: imagine-mcp
@@ -257,7 +257,7 @@
     attribution: ZeroPointRepo/awesome-grok-bot contributors
     changes: Metadata normalized; reviews rewritten and translated.
   added: '2026-10-21'
-  last_checked: '2026-11-06'
+  last_checked: '2026-11-07'
   status: active
 - id: overnight
   name: overnight
@@ -282,7 +282,7 @@
     attribution: ZeroPointRepo/awesome-grok-bot contributors
     changes: Metadata normalized; reviews rewritten and translated.
   added: '2026-10-21'
-  last_checked: '2026-11-06'
+  last_checked: '2026-11-07'
   status: active
 - id: dc-hub-mcp
   name: DC Hub
@@ -294,7 +294,8 @@
   - energy
   - power-grid
   - site-selection
-  review: Live data-center site-selection layer; DCPI scores daily grid-power availability across 300+ markets via MCP.
+  review: Live data-center site-selection layer; DCPI scores daily grid-power availability across 300+ markets via
+    MCP.
   review_i18n:
     zh-CN: 数据中心选址实时数据层；DCPI 每日评估 300+ 市场的电网电力可用性，通过 MCP 接入。
     ja: データセンター立地のライブデータ層。DCPIは300以上の市場の電力確保しやすさを日次スコア化し、MCPで接続。
@@ -308,5 +309,5 @@
     repo: azmartone67/dchub-mcp-server
     license: CC0-1.0
   added: '2026-11-06'
-  last_checked: '2026-11-06'
+  last_checked: '2026-11-07'
   status: active
